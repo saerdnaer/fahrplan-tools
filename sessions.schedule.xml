@@ -1,0 +1,908 @@
+<?xml version="1.0"?>
+<schedule xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:swivt="http://semantic-mediawiki.org/swivt/1.0#" xmlns:property="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3A">
+  <day date="2014-12-27">
+    <room name="Room Hall_A">
+      <event guid="4aa86e747fa261273a33b0499e881fdc">
+       <date>2014-12-27T16:00:00Z</date>
+       <start>16:00</start>
+       <duration>2:00</duration>
+       <room>Hall_A</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>"How to survive 31c3" CryptoParty - We could move to Day 1, 20:00–22:00, as well if there is demand for that.</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Assembly Example_Assembly">
+      <event guid="fb62525c0696832a02024b9f1ae0b689">
+       <date>2014-12-27T22:00:00Z</date>
+       <start>22:00</start>
+       <duration>2:00</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Example Session - Example Slot</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Room Hall_13">
+      <event guid="f7c0bc6d51fbb6917b05361a1897cefe">
+       <date>2014-12-27T15:00:00Z</date>
+       <start>15:00</start>
+       <duration>2:00</duration>
+       <room>Hall_13</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Queer Feminist Geek Gathering -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Room Hall_14">
+      <event guid="8676b21c04156e9518945dd76741e341">
+       <date>2014-12-27T15:00:00Z</date>
+       <start>15:00</start>
+       <duration>2:00</duration>
+       <room>Hall_14</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Queer Feminist Geek Gathering - Second room so we can split up the group if necessary (was necessary at the 30C3, and having only one room was a VERY heavy handicap where half the participants ended up talking outside).</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Assembly Chaostreff_Salzburg">
+      <event guid="5f6e10da8711b5d384b54e87dcdf1f93">
+       <date>2014-12-27T15:15:00Z</date>
+       <start>15:15</start>
+       <duration>0:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>SEX -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="36e225b4f9c16f22397947fdc4210018">
+       <date>2014-12-27T19:45:00Z</date>
+       <start>19:45</start>
+       <duration>0:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>SEX -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Assembly Food_Hacking_Base">
+      <event guid="ded6cb9e8de220249132e093c63f1821">
+       <date>2014-12-27T14:00:00Z</date>
+       <start>14:00</start>
+       <duration>2:00</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Traditional makgeolli brewing - brewing traditional alcoholic Korean rice beverage</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="2bccd06912395d68720b4a2206747001">
+       <date>2014-12-27T20:00:00Z</date>
+       <start>20:00</start>
+       <duration>2:00</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Whiskey tasting &amp; culinary event -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Assembly Freifunk">
+      <event guid="88d646c4e77c87ad4572f7b4521dc376">
+       <date>2014-12-27T18:00:00Z</date>
+       <start>18:00</start>
+       <duration>1:00</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Vorstellung des Freifunk Forums -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+</day>
+  <day date="2014-12-29">
+    <room name=" ">
+      <event guid="8fdb9063135bbda47c7170dfa49b28b2">
+       <date>2014-12-29T19:00:00Z</date>
+       <start>19:00</start>
+       <duration>2:00</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>260DIYChurch - Live Stream</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Assembly Food_Hacking_Base">
+      <event guid="fa1c54f5900ae8f96463295a9cfc1376">
+       <date>2014-12-29T18:00:00Z</date>
+       <start>18:00</start>
+       <duration>4:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Cheese rendezvous - each session lasts for 90 min, starting at 18:00; 19:30 and 21:00</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="7f97c7c3510f1c00b1e5d92ad392bd52">
+       <date>2014-12-29T14:00:00Z</date>
+       <start>14:00</start>
+       <duration>2:00</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Kombucha is easy - hands on workshop</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Room Hall_13">
+      <event guid="bf47a3fa1ff4e07c2f39c52e9ce6acb0">
+       <date>2014-12-29T14:00:00Z</date>
+       <start>14:00</start>
+       <duration>2:00</duration>
+       <room>Hall_13</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>DO! NOT! TRACK! -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="3d78713af53ded19ddc1485889e30ddc">
+       <date>2014-12-29T11:00:00Z</date>
+       <start>11:00</start>
+       <duration>0:30</duration>
+       <room>Hall_13</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Morning Tea with RIPE NCC - Monday Morning: (Day 3) Internet Governance 
+
+RIPE NCC is participating in "IANA transition" process, the hottest Internet Governance topic this &amp; next year. What's new? What's your input? 
+
+Previously on this topic: https://wiki.techinc.nl/index.php/Internet_Governance_and_hackers</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Room Hall_15">
+      <event guid="9cd88add697a3746c4b9add74e96c4a2">
+       <date>2014-12-29T14:00:00Z</date>
+       <start>14:00</start>
+       <duration>2:00</duration>
+       <room>Hall_15</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Mitgliederversammlung Förderverein Gentoo e.V. -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Room Hall_14">
+      <event guid="a47602305d6359c67e89dedf33ddc198">
+       <date>2014-12-29T21:00:00Z</date>
+       <start>21:00</start>
+       <duration>3:00</duration>
+       <room>Hall_14</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Retro Demo Coding - Your own Atari 2600 VCS demo in just three hours</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="d980390db3ed42eec5c25fddd116d78b">
+       <date>2014-12-29T18:00:00Z</date>
+       <start>18:00</start>
+       <duration>2:00</duration>
+       <room>Hall_14</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Verbesserung der Zusammenarbeit gegen Massenüberwachung - Improving inter-organizational work on mass surveillance -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Assembly Chaostreff_Salzburg">
+      <event guid="ef5e280f1427e1d94e75b2107cf3cf67">
+       <date>2014-12-29T15:15:00Z</date>
+       <start>15:15</start>
+       <duration>0:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>SEX -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="77bb406fca85e4f9ef982ac8f6a64a3b">
+       <date>2014-12-29T19:45:00Z</date>
+       <start>19:45</start>
+       <duration>0:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>SEX -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+</day>
+  <day date="2014-12-28">
+    <room name="Room Hall_13">
+      <event guid="e98781d5024c7032c281806723166e10">
+       <date>2014-12-28T12:00:00Z</date>
+       <start>12:00</start>
+       <duration>1:00</duration>
+       <room>Hall_13</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Angewandte Konsensdemokratie -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="4d0c83c9e6c2db650e998ed64b5174b7">
+       <date>2014-12-28T15:00:00Z</date>
+       <start>15:00</start>
+       <duration>2:00</duration>
+       <room>Hall_13</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>How Freifunk Rheinland became an ISP -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="7cbf5e20d3cbc841e52bbad39e06b5fd">
+       <date>2014-12-28T11:00:00Z</date>
+       <start>11:00</start>
+       <duration>0:30</duration>
+       <room>Hall_13</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Morning Tea with RIPE NCC - Sunday Morning: (Day 2) Meetup with RIPE Atlas community -- For RIPE Atlas users old and new, experts and newbies, ambassadors and developers; presenting new features; listening to feature requests.
+
+Organised by the Community Builder for Measurements Tools, Vesna Manojlovic
+
+There will be tea!
+
+Previous events: https://wiki.techinc.nl/index.php/RIPE_Atlas_probes_at_hackerspaces</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="342d752b18830fe906c6e0acb2061206">
+       <date>2014-12-28T00:00:00Z</date>
+       <start>00:00</start>
+       <duration>0:30</duration>
+       <room>Hall_13</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>RIPE Atlas probes - Meetup with RIPE Atlas community -- For RIPE Atlas users old and new, experts and newbies, ambassadors and developers; presenting new features; listening to feature requests.
+
+Organised by the Community Builder for Measurements Tools, Vesna Manojlovic</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="439f52603031337c9bc3ec7116a82694">
+       <date>2014-12-28T17:45:00Z</date>
+       <start>17:45</start>
+       <duration>2:15</duration>
+       <room>Hall_13</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>SDR for noobs -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Assembly DIYISP">
+      <event guid="0b0850a1222450129648c94a196f56cf">
+       <date>2014-12-28T17:15:00Z</date>
+       <start>17:15</start>
+       <duration>1:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Building an anycast VPN -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Room Hall_14">
+      <event guid="3ad4c0205b48278f7de8e757985dba25">
+       <date>2014-12-28T15:00:00Z</date>
+       <start>15:00</start>
+       <duration>2:00</duration>
+       <room>Hall_14</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Ein Bündnis gegen Überwachung schmieden - Forging an alliance against mass surveillance -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="e9302904a7bc8fb8d88c2b49d8913c4e">
+       <date>2014-12-28T18:00:00Z</date>
+       <start>18:00</start>
+       <duration>1:00</duration>
+       <room>Hall_14</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Kreative Steganografie -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="58e9bb3b3fd20bbae2b60c027dc3d7ee">
+       <date>2014-12-28T17:00:00Z</date>
+       <start>17:00</start>
+       <duration>1:00</duration>
+       <room>Hall_14</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Multimeter Calibration Party -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Room Hall_C">
+      <event guid="abeb72f48a7084201247b065e564f75a">
+       <date>2014-12-28T18:00:00Z</date>
+       <start>18:00</start>
+       <duration>4:00</duration>
+       <room>Hall_C</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Keysigning Party -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Assembly Chaostreff_Salzburg">
+      <event guid="3f50693ccc650a762b35c497db5a4792">
+       <date>2014-12-28T15:15:00Z</date>
+       <start>15:15</start>
+       <duration>0:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>SEX -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="3fb2d63b08c2a9af53f42b610cc34685">
+       <date>2014-12-28T19:45:00Z</date>
+       <start>19:45</start>
+       <duration>0:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>SEX -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Room Hall_A">
+      <event guid="8e1ae19eb1395d7b9828289f91b37a1d">
+       <date>2014-12-28T14:15:00Z</date>
+       <start>14:15</start>
+       <duration>2:00</duration>
+       <room>Hall_A</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Tor Relay Operators Meetup -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Room Hall_B">
+      <event guid="56f020d007ae2afd13c17755d266a97b">
+       <date>2014-12-28T11:00:00Z</date>
+       <start>11:00</start>
+       <duration>1:00</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - Luca Fulchir: "The Fenrir Project: Why TLS sucks and what I'm doing about it" (Introduction)</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="f482dbcc150113e19b8c9e58dbe028fc">
+       <date>2014-12-28T15:00:00Z</date>
+       <start>15:00</start>
+       <duration>1:00</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - Florian Dold: Electronic Voting with SMC</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="135f46e6a7c959fcf4bb8c73fc91f768">
+       <date>2014-12-28T12:00:00Z</date>
+       <start>12:00</start>
+       <duration>2:00</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - Nicolas Benes: "Do Panic!" (hopefully Hands-on!)</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="20b8a3cdcd946e1a4b0430e938a24a95">
+       <date>2014-12-28T20:30:00Z</date>
+       <start>20:30</start>
+       <duration>0:30</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - Kload: Plug &amp; Play Server</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="3de5d948407ee700923cdf697c122848">
+       <date>2014-12-28T17:00:00Z</date>
+       <start>17:00</start>
+       <duration>3:00</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - tbd</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="605bea787b6ecfdb9c790df2f6a5be58">
+       <date>2014-12-28T14:00:00Z</date>
+       <start>14:00</start>
+       <duration>0:30</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - Markus Benter: "Decentralizing the Internet: Bridging the Gap between Theory and Practice"</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="023da24af52b417361a7fe7949ae0cd6">
+       <date>2014-12-28T20:00:00Z</date>
+       <start>20:00</start>
+       <duration>0:30</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - Elijah: LEAP</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="b763752d9be82801383562e88df48a15">
+       <date>2014-12-28T16:00:00Z</date>
+       <start>16:00</start>
+       <duration>1:00</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - tbd: Introduction to Ethereum</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="9751bfbdc8c7afda96b89bc3683e2eb9">
+       <date>2014-12-28T14:30:00Z</date>
+       <start>14:30</start>
+       <duration>0:30</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - Florian Dold &amp; Christian Grothoff: "Taler" (Introduction)</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="7021eb7254b944fa5fca899b99fff243">
+       <date>2014-12-28T09:30:00Z</date>
+       <start>09:30</start>
+       <duration>0:30</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - Welcome (Introduction)</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="12b9bee8a02d4d72aec9b3608fdadd4a">
+       <date>2014-12-28T21:00:00Z</date>
+       <start>21:00</start>
+       <duration>0:15</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - GNUnet e.V. annual members meeting</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="b7b2b485239a2110b78ca146212ccb2a">
+       <date>2014-12-28T10:00:00Z</date>
+       <start>10:00</start>
+       <duration>1:00</duration>
+       <room>Hall_B</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>WeFixTheNet - Bernd Paysan: "net2o - reinventing the Internet: lightweight, scalable and userfriendly" (Introduction)</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+</day>
+  <day date="2014-12-30">
+    <room name="Assembly Food_Hacking_Base">
+      <event guid="9935e085656c756fbf3ece43397f69eb">
+       <date>2014-12-30T11:00:00Z</date>
+       <start>11:00</start>
+       <duration>1:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Kefir is alive -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Room Hall_13">
+      <event guid="609a521fb34c56ef4ef1e8622f1e56ca">
+       <date>2014-12-30T11:00:00Z</date>
+       <start>11:00</start>
+       <duration>0:30</duration>
+       <room>Hall_13</room>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>Morning Tea with RIPE NCC - Tuesday Morning: (Day 4)  IPv4 Hijacking
+
+In the previous few years, number of IPv4 hijack cases increased, since IPv4 addresses have higher economic value due to IPv4 scarcity. Curious how does RIEP NCC deals with this, and what do we do to prevent it? 
+
+http://www.ripe.net/internet-coordination/press-centre/publications/presentations/2014/ipv4-hijacking-our-experience</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+
+    <room name="Assembly Chaostreff_Salzburg">
+      <event guid="6adbfb543737303cb5ff3c2406c843b4">
+       <date>2014-12-30T19:45:00Z</date>
+       <start>19:45</start>
+       <duration>0:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>SEX -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      <event guid="c98cc6f2a1bf6ea26ed67261bcdeee9a">
+       <date>2014-12-30T15:15:00Z</date>
+       <start>15:15</start>
+       <duration>0:30</duration>
+       <room/>
+       <slug/>
+       <recording><license/><optout/></recording>
+       <title>SEX -</title>
+       <subtitle/>
+       <track>Session</track>
+       <type>workshop</type>
+       <language/>
+       <abstract/>
+       <description/>
+       <persons/>
+       <links/>
+      </event>
+      </room>
+</day>
+</schedule>

@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rdf:RDF[
+	<!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+	<!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+	<!ENTITY owl 'http://www.w3.org/2002/07/owl#'>
+	<!ENTITY swivt 'http://semantic-mediawiki.org/swivt/1.0#'>
+	<!ENTITY wiki 'http://events.ccc.de/congress/2014/wiki/Special:URIResolver/'>
+	<!ENTITY property 'http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3A'>
+	<!ENTITY wikiurl 'https://events.ccc.de/congress/2014/wiki/'>
+]>
+
+<rdf:RDF
+	xmlns:rdf="&rdf;"
+	xmlns:rdfs="&rdfs;"
+	xmlns:owl ="&owl;"
+	xmlns:swivt="&swivt;"
+	xmlns:wiki="&wiki;"
+	xmlns:property="&property;">
+
+	<owl:Ontology>
+		<swivt:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T10:20:56+01:00</swivt:creationDate>
+		<owl:imports rdf:resource="http://semantic-mediawiki.org/swivt/1.0"/>
+	</owl:Ontology>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3A-22How_to_survive_31c3-22_CryptoParty-23_4aa86e747fa261273a33b0499e881fdc">
+		<swivt:masterPage rdf:resource="&wiki;Session-3A-22How_to_survive_31c3-22_CryptoParty"/>
+		<swivt:wikiPageSortKey>"How to survive 31c3" CryptoParty# 4aa86e747fa261273a33b0499e881fdc</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">"How to survive 31c3" CryptoParty - We could move to Day 1, 20:00–22:00, as well if there is demand for that.</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T16:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.1666667</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T18:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.25</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_A"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3A260DIYChurch-23_8fdb9063135bbda47c7170dfa49b28b2">
+		<swivt:masterPage rdf:resource="&wiki;Session-3A260DIYChurch"/>
+		<swivt:wikiPageSortKey>260DIYChurch# 8fdb9063135bbda47c7170dfa49b28b2</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">260DIYChurch - Live Stream</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T19:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.2916667</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T21:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.375</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AATtami_-2D_bake_a_cheap_DEV_board-23_7fdb7288c5400fa5b3e192c3f5902f42">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AATtami_-2D_bake_a_cheap_DEV_board"/>
+		<swivt:wikiPageSortKey>ATtami - bake a cheap DEV board# 7fdb7288c5400fa5b3e192c3f5902f42</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATtami - bake a cheap DEV board -</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T10:27:21Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457002.9356597</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3ATAMI"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AAngewandte_Konsensdemokratie-23_e98781d5024c7032c281806723166e10">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AAngewandte_Konsensdemokratie"/>
+		<swivt:wikiPageSortKey>Angewandte Konsensdemokratie# e98781d5024c7032c281806723166e10</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angewandte Konsensdemokratie -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T12:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T13:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.0416667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_13"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AArduinoForTotalNewbies-23_0dc0bbc7c6eafce53c0e8de482155a9c">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AArduinoForTotalNewbies"/>
+		<swivt:wikiPageSortKey>ArduinoForTotalNewbies# 0dc0bbc7c6eafce53c0e8de482155a9c</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ArduinoForTotalNewbies - Day 2</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T12:27:17Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457003.0189468</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">210</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AHardware_Hacking_Area"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AArduinoForTotalNewbies-23_3adaae313f9d1a155d7a5e2e579ec165">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AArduinoForTotalNewbies"/>
+		<swivt:wikiPageSortKey>ArduinoForTotalNewbies# 3adaae313f9d1a155d7a5e2e579ec165</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ArduinoForTotalNewbies - Day 3</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T12:27:17Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457003.0189468</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">210</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AHardware_Hacking_Area"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ABuilding_an_anycast_VPN-23_0b0850a1222450129648c94a196f56cf">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ABuilding_an_anycast_VPN"/>
+		<swivt:wikiPageSortKey>Building an anycast VPN# 0b0850a1222450129648c94a196f56cf</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Building an anycast VPN -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T17:15:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.21875</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T18:45:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.28125</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3ADIYISP"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ACCC_Regiotreffen-23_c192eb1011031b2123e74ea837d3325b">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ACCC_Regiotreffen"/>
+		<swivt:wikiPageSortKey>CCC Regiotreffen# c192eb1011031b2123e74ea837d3325b</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCC Regiotreffen -</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T11:57:32Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457002.998287</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">180</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_C"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ACheese_rendezvous-23_fa1c54f5900ae8f96463295a9cfc1376">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ACheese_rendezvous"/>
+		<swivt:wikiPageSortKey>Cheese rendezvous# fa1c54f5900ae8f96463295a9cfc1376</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cheese rendezvous - each session lasts for 90 min, starting at 18:00; 19:30 and 21:00</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T18:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.25</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T22:30:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.4375</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">270</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AFood_Hacking_Base"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ACreate_a_cookie_cutter_contest-23_597be808b21deacbce849869ae0fa5a2">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ACreate_a_cookie_cutter_contest"/>
+		<swivt:wikiPageSortKey>Create a cookie cutter contest# 597be808b21deacbce849869ae0fa5a2</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Create a cookie cutter contest -</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T09:17:41Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457002.8872801</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AFood_Hacking_Base"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ADO-21_NOT-21_TRACK-21-23_bf47a3fa1ff4e07c2f39c52e9ce6acb0">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ADO-21_NOT-21_TRACK-21"/>
+		<swivt:wikiPageSortKey>DO! NOT! TRACK!# bf47a3fa1ff4e07c2f39c52e9ce6acb0</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DO! NOT! TRACK! -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T14:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.0833333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T16:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.1666667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_13"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AEdible_mushrooms-23_3bf61c53123613d12d844667e7365618">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AEdible_mushrooms"/>
+		<swivt:wikiPageSortKey>Edible mushrooms# 3bf61c53123613d12d844667e7365618</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edible mushrooms -</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T09:57:41Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457002.9150579</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AFood_Hacking_Base"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AEin_B-C3-BCndnis_gegen_-C3-9Cberwachung_schmieden_-2D_Forging_an_alliance_against_mass_surveillance-23_3ad4c0205b48278f7de8e757985dba25">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AEin_B-C3-BCndnis_gegen_-C3-9Cberwachung_schmieden_-2D_Forging_an_alliance_against_mass_surveillance"/>
+		<swivt:wikiPageSortKey>Ein Bündnis gegen Überwachung schmieden - Forging an alliance against mass surveillance# 3ad4c0205b48278f7de8e757985dba25</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ein Bündnis gegen Überwachung schmieden - Forging an alliance against mass surveillance -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T15:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.125</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T17:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.2083333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_14"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AExample_Session-23_fb62525c0696832a02024b9f1ae0b689">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AExample_Session"/>
+		<swivt:wikiPageSortKey>Example Session# fb62525c0696832a02024b9f1ae0b689</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Example Session - Example Slot</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T22:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.4166667</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T00:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.5</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AExample_Assembly"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AHow_Freifunk_Rheinland_became_an_ISP-23_4d0c83c9e6c2db650e998ed64b5174b7">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AHow_Freifunk_Rheinland_became_an_ISP"/>
+		<swivt:wikiPageSortKey>How Freifunk Rheinland became an ISP# 4d0c83c9e6c2db650e998ed64b5174b7</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">How Freifunk Rheinland became an ISP -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T15:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.125</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T17:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.2083333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_13"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AKefir_is_alive-23_9935e085656c756fbf3ece43397f69eb">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AKefir_is_alive"/>
+		<swivt:wikiPageSortKey>Kefir is alive# 9935e085656c756fbf3ece43397f69eb</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kefir is alive -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-30T11:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.9583333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-30T12:30:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457022.0208333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AFood_Hacking_Base"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AKeysigning_Party-23_abeb72f48a7084201247b065e564f75a">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AKeysigning_Party"/>
+		<swivt:wikiPageSortKey>Keysigning Party# abeb72f48a7084201247b065e564f75a</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Keysigning Party -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T18:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.25</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T22:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.4166667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">240</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_C"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AKombucha_is_easy-23_7f97c7c3510f1c00b1e5d92ad392bd52">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AKombucha_is_easy"/>
+		<swivt:wikiPageSortKey>Kombucha is easy# 7f97c7c3510f1c00b1e5d92ad392bd52</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kombucha is easy - hands on workshop</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T14:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.0833333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T16:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.1666667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AFood_Hacking_Base"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AKreative_Steganografie-23_e9302904a7bc8fb8d88c2b49d8913c4e">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AKreative_Steganografie"/>
+		<swivt:wikiPageSortKey>Kreative Steganografie# e9302904a7bc8fb8d88c2b49d8913c4e</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kreative Steganografie -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T18:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.25</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T19:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.2916667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_14"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ALearnToSolder-23_e5c17e5a89e2ae400c2caed9291e6460">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ALearnToSolder"/>
+		<swivt:wikiPageSortKey>LearnToSolder# e5c17e5a89e2ae400c2caed9291e6460</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LearnToSolder - Day 1</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T15:56:18Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457003.1640972</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">419</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AHardware_Hacking_Area"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ALearnToSolder-23_2753bf95415887423b795e186fa1964c">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ALearnToSolder"/>
+		<swivt:wikiPageSortKey>LearnToSolder# 2753bf95415887423b795e186fa1964c</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LearnToSolder - Day 2</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T21:56:18Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457003.4140972</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">779</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AHardware_Hacking_Area"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ALearnToSolder-23_4c9302ebf01cae78239309f0a6f38927">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ALearnToSolder"/>
+		<swivt:wikiPageSortKey>LearnToSolder# 4c9302ebf01cae78239309f0a6f38927</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LearnToSolder - Day 3</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T21:56:18Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457003.4140972</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">779</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AHardware_Hacking_Area"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ALearnToSolder-23_b773d2a1078b7eb6efff7065c822362c">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ALearnToSolder"/>
+		<swivt:wikiPageSortKey>LearnToSolder# b773d2a1078b7eb6efff7065c822362c</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LearnToSolder - Day 4</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T12:56:18Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457003.0390972</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">239</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AHardware_Hacking_Area"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AMitgliederversammlung_F-C3-B6rderverein_Gentoo_e.V.-23_9cd88add697a3746c4b9add74e96c4a2">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AMitgliederversammlung_F-C3-B6rderverein_Gentoo_e.V."/>
+		<swivt:wikiPageSortKey>Mitgliederversammlung Förderverein Gentoo e.V.# 9cd88add697a3746c4b9add74e96c4a2</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mitgliederversammlung Förderverein Gentoo e.V. -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T14:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.0833333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T16:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.1666667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_15"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AMorning_Tea_with_RIPE_NCC-23_7cbf5e20d3cbc841e52bbad39e06b5fd">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AMorning_Tea_with_RIPE_NCC"/>
+		<swivt:wikiPageSortKey>Morning Tea with RIPE NCC# 7cbf5e20d3cbc841e52bbad39e06b5fd</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morning Tea with RIPE NCC - Sunday Morning: (Day 2) Meetup with RIPE Atlas community -- For RIPE Atlas users old and new, experts and newbies, ambassadors and developers; presenting new features; listening to feature requests.
+
+Organised by the Community Builder for Measurements Tools, Vesna Manojlovic
+
+There will be tea!
+
+Previous events: https://wiki.techinc.nl/index.php/RIPE_Atlas_probes_at_hackerspaces</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T11:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.9583333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T11:30:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.9791667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_13"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AMorning_Tea_with_RIPE_NCC-23_3d78713af53ded19ddc1485889e30ddc">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AMorning_Tea_with_RIPE_NCC"/>
+		<swivt:wikiPageSortKey>Morning Tea with RIPE NCC# 3d78713af53ded19ddc1485889e30ddc</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morning Tea with RIPE NCC - Monday Morning: (Day 3) Internet Governance 
+
+RIPE NCC is participating in "IANA transition" process, the hottest Internet Governance topic this &amp; next year. What's new? What's your input? 
+
+Previously on this topic: https://wiki.techinc.nl/index.php/Internet_Governance_and_hackers</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T11:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.9583333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T11:30:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.9791667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_13"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AMorning_Tea_with_RIPE_NCC-23_609a521fb34c56ef4ef1e8622f1e56ca">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AMorning_Tea_with_RIPE_NCC"/>
+		<swivt:wikiPageSortKey>Morning Tea with RIPE NCC# 609a521fb34c56ef4ef1e8622f1e56ca</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morning Tea with RIPE NCC - Tuesday Morning: (Day 4)  IPv4 Hijacking
+
+In the previous few years, number of IPv4 hijack cases increased, since IPv4 addresses have higher economic value due to IPv4 scarcity. Curious how does RIEP NCC deals with this, and what do we do to prevent it? 
+
+http://www.ripe.net/internet-coordination/press-centre/publications/presentations/2014/ipv4-hijacking-our-experience</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-30T11:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.9583333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-30T11:30:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.9791667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_13"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AMultimeter_Calibration_Party-23_58e9bb3b3fd20bbae2b60c027dc3d7ee">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AMultimeter_Calibration_Party"/>
+		<swivt:wikiPageSortKey>Multimeter Calibration Party# 58e9bb3b3fd20bbae2b60c027dc3d7ee</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multimeter Calibration Party -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T17:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.2083333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T18:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.25</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_14"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AQueer_Feminist_Geek_Gathering-23_f7c0bc6d51fbb6917b05361a1897cefe">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AQueer_Feminist_Geek_Gathering"/>
+		<swivt:wikiPageSortKey>Queer Feminist Geek Gathering# f7c0bc6d51fbb6917b05361a1897cefe</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Queer Feminist Geek Gathering -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T15:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.125</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T17:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.2083333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_13"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AQueer_Feminist_Geek_Gathering-23_8676b21c04156e9518945dd76741e341">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AQueer_Feminist_Geek_Gathering"/>
+		<swivt:wikiPageSortKey>Queer Feminist Geek Gathering# 8676b21c04156e9518945dd76741e341</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Queer Feminist Geek Gathering - Second room so we can split up the group if necessary (was necessary at the 30C3, and having only one room was a VERY heavy handicap where half the participants ended up talking outside).</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T15:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.125</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T17:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.2083333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_14"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ARIPE_Atlas_probes-23_342d752b18830fe906c6e0acb2061206">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ARIPE_Atlas_probes"/>
+		<swivt:wikiPageSortKey>RIPE Atlas probes# 342d752b18830fe906c6e0acb2061206</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RIPE Atlas probes - Meetup with RIPE Atlas community -- For RIPE Atlas users old and new, experts and newbies, ambassadors and developers; presenting new features; listening to feature requests.
+
+Organised by the Community Builder for Measurements Tools, Vesna Manojlovic</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T00:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.5</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T00:30:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.5208333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_13"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ARetro_Demo_Coding-23_a47602305d6359c67e89dedf33ddc198">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ARetro_Demo_Coding"/>
+		<swivt:wikiPageSortKey>Retro Demo Coding# a47602305d6359c67e89dedf33ddc198</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Retro Demo Coding - Your own Atari 2600 VCS demo in just three hours</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T21:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.375</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-30T00:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.5</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">180</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_14"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ASDR_for_noobs-23_439f52603031337c9bc3ec7116a82694">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ASDR_for_noobs"/>
+		<swivt:wikiPageSortKey>SDR for noobs# 439f52603031337c9bc3ec7116a82694</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDR for noobs -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T17:45:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.2395833</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T20:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.3333333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">135</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_13"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ASEX-23_6adbfb543737303cb5ff3c2406c843b4">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ASEX"/>
+		<swivt:wikiPageSortKey>SEX# 6adbfb543737303cb5ff3c2406c843b4</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SEX -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-30T19:45:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457022.3229167</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-30T20:15:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457022.34375</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AChaostreff_Salzburg"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ASEX-23_3f50693ccc650a762b35c497db5a4792">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ASEX"/>
+		<swivt:wikiPageSortKey>SEX# 3f50693ccc650a762b35c497db5a4792</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SEX -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T15:15:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.1354167</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T15:45:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.15625</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AChaostreff_Salzburg"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ASEX-23_3fb2d63b08c2a9af53f42b610cc34685">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ASEX"/>
+		<swivt:wikiPageSortKey>SEX# 3fb2d63b08c2a9af53f42b610cc34685</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SEX -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T19:45:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.3229167</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T20:15:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.34375</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AChaostreff_Salzburg"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ASEX-23_ef5e280f1427e1d94e75b2107cf3cf67">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ASEX"/>
+		<swivt:wikiPageSortKey>SEX# ef5e280f1427e1d94e75b2107cf3cf67</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SEX -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T15:15:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.1354167</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T15:45:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.15625</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AChaostreff_Salzburg"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ASEX-23_77bb406fca85e4f9ef982ac8f6a64a3b">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ASEX"/>
+		<swivt:wikiPageSortKey>SEX# 77bb406fca85e4f9ef982ac8f6a64a3b</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SEX -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T19:45:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.3229167</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T20:15:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.34375</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AChaostreff_Salzburg"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ASEX-23_5f6e10da8711b5d384b54e87dcdf1f93">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ASEX"/>
+		<swivt:wikiPageSortKey>SEX# 5f6e10da8711b5d384b54e87dcdf1f93</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SEX -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T15:15:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.1354167</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T15:45:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.15625</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AChaostreff_Salzburg"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ASEX-23_c98cc6f2a1bf6ea26ed67261bcdeee9a">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ASEX"/>
+		<swivt:wikiPageSortKey>SEX# c98cc6f2a1bf6ea26ed67261bcdeee9a</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SEX -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-30T15:15:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457022.1354167</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-30T15:45:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457022.15625</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AChaostreff_Salzburg"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ASEX-23_36e225b4f9c16f22397947fdc4210018">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ASEX"/>
+		<swivt:wikiPageSortKey>SEX# 36e225b4f9c16f22397947fdc4210018</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SEX -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T19:45:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.3229167</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T20:15:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.34375</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AChaostreff_Salzburg"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ATTIP_-26_CETA_-2D_let-27s_troll_it-21-23_dcb3776f37b19b37e15f92f403dabe61">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ATTIP_-26_CETA_-2D_let-27s_troll_it-21"/>
+		<swivt:wikiPageSortKey>TTIP &amp; CETA - let's troll it!# dcb3776f37b19b37e15f92f403dabe61</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TTIP &amp; CETA - let's troll it! -</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T10:57:38Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457002.9566898</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3ANoisy_Square"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AThe_One_Ring_workshop-23_9a0102d4c91d6c6549b82f658ca9bea6">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AThe_One_Ring_workshop"/>
+		<swivt:wikiPageSortKey>The One Ring workshop# 9a0102d4c91d6c6549b82f658ca9bea6</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The One Ring workshop - continous workshop, join whenever you want, takes around 90 minutes (depending on skill)</property:Has_event_title>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-11T10:27:21Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457002.9356597</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ATor_Relay_Operators_Meetup-23_8e1ae19eb1395d7b9828289f91b37a1d">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ATor_Relay_Operators_Meetup"/>
+		<swivt:wikiPageSortKey>Tor Relay Operators Meetup# 8e1ae19eb1395d7b9828289f91b37a1d</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tor Relay Operators Meetup -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T14:15:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.09375</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T16:15:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.1770833</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_A"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3ATraditional_makgeolli_brewing-23_ded6cb9e8de220249132e093c63f1821">
+		<swivt:masterPage rdf:resource="&wiki;Session-3ATraditional_makgeolli_brewing"/>
+		<swivt:wikiPageSortKey>Traditional makgeolli brewing# ded6cb9e8de220249132e093c63f1821</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Traditional makgeolli brewing - brewing traditional alcoholic Korean rice beverage</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T14:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.0833333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T16:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.1666667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AFood_Hacking_Base"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AVerbesserung_der_Zusammenarbeit_gegen_Massen-C3-BCberwachung_-2D_Improving_inter-2Dorganizational_work_on_mass_surveillance-23_d980390db3ed42eec5c25fddd116d78b">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AVerbesserung_der_Zusammenarbeit_gegen_Massen-C3-BCberwachung_-2D_Improving_inter-2Dorganizational_work_on_mass_surveillance"/>
+		<swivt:wikiPageSortKey>Verbesserung der Zusammenarbeit gegen Massenüberwachung - Improving inter-organizational work on mass surveillance# d980390db3ed42eec5c25fddd116d78b</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verbesserung der Zusammenarbeit gegen Massenüberwachung - Improving inter-organizational work on mass surveillance -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T18:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.25</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-29T20:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457021.3333333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_14"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AVorstellung_des_Freifunk_Forums-23_88d646c4e77c87ad4572f7b4521dc376">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AVorstellung_des_Freifunk_Forums"/>
+		<swivt:wikiPageSortKey>Vorstellung des Freifunk Forums# 88d646c4e77c87ad4572f7b4521dc376</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vorstellung des Freifunk Forums -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T18:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.25</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T19:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.2916667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AFreifunk"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_56f020d007ae2afd13c17755d266a97b">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# 56f020d007ae2afd13c17755d266a97b</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - Luca Fulchir: "The Fenrir Project: Why TLS sucks and what I'm doing about it" (Introduction)</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T11:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.9583333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T12:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_f482dbcc150113e19b8c9e58dbe028fc">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# f482dbcc150113e19b8c9e58dbe028fc</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - Florian Dold: Electronic Voting with SMC</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T15:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.125</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T16:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.1666667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_135f46e6a7c959fcf4bb8c73fc91f768">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# 135f46e6a7c959fcf4bb8c73fc91f768</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - Nicolas Benes: "Do Panic!" (hopefully Hands-on!)</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T12:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T14:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.0833333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_20b8a3cdcd946e1a4b0430e938a24a95">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# 20b8a3cdcd946e1a4b0430e938a24a95</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - Kload: Plug &amp; Play Server</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T20:30:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.3541667</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T21:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.375</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_3de5d948407ee700923cdf697c122848">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# 3de5d948407ee700923cdf697c122848</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - tbd</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T17:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.2083333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T20:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.3333333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">180</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_605bea787b6ecfdb9c790df2f6a5be58">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# 605bea787b6ecfdb9c790df2f6a5be58</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - Markus Benter: "Decentralizing the Internet: Bridging the Gap between Theory and Practice"</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T14:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.0833333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T14:30:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.1041667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_023da24af52b417361a7fe7949ae0cd6">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# 023da24af52b417361a7fe7949ae0cd6</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - Elijah: LEAP</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T20:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.3333333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T20:30:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.3541667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_b763752d9be82801383562e88df48a15">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# b763752d9be82801383562e88df48a15</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - tbd: Introduction to Ethereum</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T16:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.1666667</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T17:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.2083333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_9751bfbdc8c7afda96b89bc3683e2eb9">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# 9751bfbdc8c7afda96b89bc3683e2eb9</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - Florian Dold &amp; Christian Grothoff: "Taler" (Introduction)</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T14:30:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.1041667</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T15:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.125</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_7021eb7254b944fa5fca899b99fff243">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# 7021eb7254b944fa5fca899b99fff243</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - Welcome (Introduction)</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T09:30:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.8958333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T10:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.9166667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_12b9bee8a02d4d72aec9b3608fdadd4a">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# 12b9bee8a02d4d72aec9b3608fdadd4a</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - GNUnet e.V. annual members meeting</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T21:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.375</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T21:15:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457020.3854167</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWeFixTheNet-23_b7b2b485239a2110b78ca146212ccb2a">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWeFixTheNet"/>
+		<swivt:wikiPageSortKey>WeFixTheNet# b7b2b485239a2110b78ca146212ccb2a</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WeFixTheNet - Bernd Paysan: "net2o - reinventing the Internet: lightweight, scalable and userfriendly" (Introduction)</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T10:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.9166667</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-28T11:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.9583333</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Room-3AHall_B"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<swivt:Subject rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Session-3AWhiskey_tasting_-26_culinary_event-23_2bccd06912395d68720b4a2206747001">
+		<swivt:masterPage rdf:resource="&wiki;Session-3AWhiskey_tasting_-26_culinary_event"/>
+		<swivt:wikiPageSortKey>Whiskey tasting &amp; culinary event# 2bccd06912395d68720b4a2206747001</swivt:wikiPageSortKey>
+		<property:Has_event_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Whiskey tasting &amp; culinary event -</property:Has_event_title>
+		<property:Has_start_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T20:00:00Z</property:Has_start_time>
+		<property:Has_start_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.3333333</property:Has_start_time-23aux>
+		<property:Has_end_time rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-27T22:00:00Z</property:Has_end_time>
+		<property:Has_end_time-23aux rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2457019.4166667</property:Has_end_time-23aux>
+		<property:Has_duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120</property:Has_duration>
+		<property:Has_color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#0099ab</property:Has_color>
+		<property:Has_session_location rdf:resource="&wiki;Assembly-3AFood_Hacking_Base"/>
+		<property:Has_event_track rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Session</property:Has_event_track>
+	</swivt:Subject>
+	<owl:DatatypeProperty rdf:about="http://semantic-mediawiki.org/swivt/1.0#creationDate" />
+	<owl:ObjectProperty rdf:about="http://semantic-mediawiki.org/swivt/1.0#masterPage" />
+	<owl:DatatypeProperty rdf:about="http://semantic-mediawiki.org/swivt/1.0#wikiPageSortKey" />
+	<owl:DatatypeProperty rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3AHas_event_title" />
+	<owl:DatatypeProperty rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3AHas_start_time" />
+	<owl:DatatypeProperty rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3AHas_start_time-23aux" />
+	<owl:DatatypeProperty rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3AHas_end_time" />
+	<owl:DatatypeProperty rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3AHas_end_time-23aux" />
+	<owl:DatatypeProperty rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3AHas_duration" />
+	<owl:DatatypeProperty rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3AHas_color" />
+	<owl:ObjectProperty rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3AHas_session_location" />
+	<owl:DatatypeProperty rdf:about="http://events.ccc.de/congress/2014/wiki/Special:URIResolver/Property-3AHas_event_track" />
+	<!-- Created by Semantic MediaWiki, http://semantic-mediawiki.org/ -->
+</rdf:RDF>
