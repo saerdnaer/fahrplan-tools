@@ -1,0 +1,3255 @@
+{
+    "Session:Kombucha is easy# 7f97c7c3510f1c00b1e5d92ad392bd52": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419861600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Recipe:Kombucha_brewing_manual_-_short_workshop_form"
+        ], 
+        "Has description": [
+            "Come and learn how to make tasty and healthy kombucha, so you can continue to brew your own at home or at your local hackerspace!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Kombucha is easy", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Algoldor", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "hands on workshop"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419868800"
+        ]
+    }, 
+    "Session:SEX# 6adbfb543737303cb5ff3c2406c843b4": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419968700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SEX -- Seed EXchange\n\nWe provide a low profile platform for the exchange of __plant__ seeds."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaostreff Salzburg", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Chaostreff_Salzburg", 
+                "exists": true
+            }
+        ], 
+        "Has title": "SEX", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Finga", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Finga", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Alex.blackbit", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Alex.blackbit", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419970500"
+        ]
+    }, 
+    "Session:SDR for noobs# 439f52603031337c9bc3ec7116a82694": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419788700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Get started with some simple Software Defined Radio.\n\nPlease install GnuRadio. No hardware required, we will provide files with captured data."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_13", 
+                "exists": true
+            }
+        ], 
+        "Has title": "SDR for noobs", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Schneider", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Schneider", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Sec", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Sec", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            135
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419796800"
+        ]
+    }, 
+    "Session:260DIYChurch# 8fdb9063135bbda47c7170dfa49b28b2": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419879600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://diychurch.org"
+        ], 
+        "Has description": [
+            "live radio show + open mic for everyone who is interested in getting involved or wants to contribute something.\nPls contact me for details"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [], 
+        "Has title": "260DIYChurch", 
+        "Is organized by": [
+            {
+                "fulltext": "User:S", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:S", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Live Stream"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419886800"
+        ]
+    }, 
+    "Session:Morning Tea with RIPE NCC# 3d78713af53ded19ddc1485889e30ddc": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419850800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://ripe.net", 
+            "http://atlas.ripe.net"
+        ], 
+        "Has description": [
+            "3 mornings about RIPE / NCC topics: RIPE Atlas, Internet Governance and IPv4 Hijacks. 11AM, Room 13, Tea!!!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_13", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Morning Tea with RIPE NCC", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Becha", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Becha", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Monday Morning: (Day 3) Internet Governance \n\nRIPE NCC is participating in \"IANA transition\" process, the hottest Internet Governance topic this & next year. What's new? What's your input? \n\nPreviously on this topic: https://wiki.techinc.nl/index.php/Internet_Governance_and_hackers"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419852600"
+        ]
+    }, 
+    "Session:SEX# 3fb2d63b08c2a9af53f42b610cc34685": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419795900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SEX -- Seed EXchange\n\nWe provide a low profile platform for the exchange of __plant__ seeds."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaostreff Salzburg", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Chaostreff_Salzburg", 
+                "exists": true
+            }
+        ], 
+        "Has title": "SEX", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Finga", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Finga", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Alex.blackbit", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Alex.blackbit", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419797700"
+        ]
+    }, 
+    "Session:Keysigning Party# abeb72f48a7084201247b065e564f75a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419789600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The aim of this Workshop is to strengthen the Web of Trust by signing OpenPGP keys of other people and receiving signatures from others."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_C", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Keysigning Party", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Th", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Th", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            240
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419804000"
+        ]
+    }, 
+    "Session:LearnToSolder# 47941f745307c94bcc4fd921ec368951": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Hardware_Hacking_Area", 
+                "exists": true
+            }
+        ], 
+        "Has title": "LearnToSolder", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Maltman23", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 2"
+        ], 
+        "Has duration": [
+            779
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418428594"
+        ]
+    }, 
+    "Session:Multimeter Calibration Party# 58e9bb3b3fd20bbae2b60c027dc3d7ee": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419786000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This workshop is intented for people who want to make sure their multimeters are still within spec. I bring the tools to calibrate and adjust your multimeter."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_14", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Multimeter Calibration Party", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Felicitus", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Felicitus", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419789600"
+        ]
+    }, 
+    "Session:NerfgunBattle# 83ae66d65ac42a8acdbf7f04d6440f0e": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419728400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Tired of egoshooters? Feeling the need for better graphics, realistic physics and surround sound? Join the big Nerf-Gun Battle at 31c3! \nCome around - bring your own device - get shot!"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has title": "NerfgunBattle", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Troll", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Troll", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Location will be updated, see Infotext"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419730200"
+        ]
+    }, 
+    "Session:WeFixTheNet# 9751bfbdc8c7afda96b89bc3683e2eb9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419777000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Florian Dold & Christian Grothoff: \"Taler\" (Introduction)"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419778800"
+        ]
+    }, 
+    "Session:ATtami - bake a cheap DEV board# 1f8126101092c4f00d1748c2567ce871": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://telavivmakers.org/index.php/ATtami"
+        ], 
+        "Has description": [
+            "assemble an ATtiny85 based DEV board. its made to be cheap (BOM at ~1Euro) but capable. no soldering - its baked!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TAMI", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:TAMI", 
+                "exists": true
+            }
+        ], 
+        "Has title": "ATtami - bake a cheap DEV board", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Shekel", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Shekel", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418387257"
+        ]
+    }, 
+    "Session:WeFixTheNet# 3de5d948407ee700923cdf697c122848": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419786000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "tbd"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419796800"
+        ]
+    }, 
+    "Session:Retro Demo Coding# a47602305d6359c67e89dedf33ddc198": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419886800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://svolli.org/atari2600/#workshop"
+        ], 
+        "Has description": [
+            "You learn something new every day, how about learning something retro? Like coding a demo for a game console that was created in the late 70's. The Atari 2600 VCS provides 128 bytes of RAM, an address space for 4k of ROM and NO framebuffer.\n\nIf you've got some coding experience, you can go from zero to a small demo just in a few hours. Bring a computer running Linux, Mac OS X or Windows together with your favorite text editor, and I'll give you the tools you need to get your code running in an emulator."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_14", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Retro Demo Coding", 
+        "Is organized by": [
+            {
+                "fulltext": "User:SvOlli", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:SvOlli", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Your own Atari 2600 VCS demo in just three hours"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419897600"
+        ]
+    }, 
+    "Session:RIPE Atlas probes# 342d752b18830fe906c6e0acb2061206": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419724800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://atlas.ripe.net", 
+            "https://wiki.techinc.nl/index.php/RIPE_Atlas_probes_at_hackerspaces"
+        ], 
+        "Has description": [
+            "TO BE DELETED  --- I created a new SERIES OF EVENTS!!!!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_13", 
+                "exists": true
+            }
+        ], 
+        "Has title": "RIPE Atlas probes", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Becha", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Becha", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Meetup with RIPE Atlas community -- For RIPE Atlas users old and new, experts and newbies, ambassadors and developers; presenting new features; listening to feature requests.\n\nOrganised by the Community Builder for Measurements Tools, Vesna Manojlovic"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419726600"
+        ]
+    }, 
+    "Session:How Freifunk Rheinland became an ISP# 4d0c83c9e6c2db650e998ed64b5174b7": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419778800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We are a Local Internet Registrar, member of RIPE. We are one of the very few community LIRs.What does it mean \"Autonomous System\"? How the Rheinland Backbone technically works? What about Rheinland Backbone Policy? Q&A about our Usage Policy. We offer default routing for your Freifunk Community! Fibre to the Roof!"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_13", 
+                "exists": true
+            }
+        ], 
+        "Has title": "How Freifunk Rheinland became an ISP", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nomaster", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Nomaster", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Takt", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Takt", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:ThomasDOTwtf", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:ThomasDOTwtf", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419786000"
+        ]
+    }, 
+    "Session:Kefir is alive# 9935e085656c756fbf3ece43397f69eb": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "how to make Kefir by yourself with Kefir Grains and (soy)milk"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Kefir is alive", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mofi2001", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Mofi2001", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419942600"
+        ]
+    }, 
+    "Session:WeFixTheNet# 20b8a3cdcd946e1a4b0430e938a24a95": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419798600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Kload: Plug & Play Server"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419800400"
+        ]
+    }, 
+    "Session:Mobile Self-Defense# aa7bedadef2b50131d6542a9bc480a00": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419709500"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gsmmap.org"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_13", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Mobile Self-Defense", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Linuzifer", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Linuzifer", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419712200"
+        ]
+    }, 
+    "Session:Kreative Steganografie# e9302904a7bc8fb8d88c2b49d8913c4e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1419789600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Steganografie, was ist das, etwas mit Grafik? Nein, es ist Spa\u00df am Zweckentfremden von Datenformaten und Dingen. Lasst euch klassische sowie ausgefallene Stego-Methoden anf\u00e4ngertauglich erkl\u00e4ren und entwickelt eigene Ideen."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_14", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Kreative Steganografie", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Coco", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Coco", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419793200"
+        ]
+    }, 
+    "Session:Edible mushrooms# b40b395e24413f2f1e8b1cfe66a228de": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "How to grow and multiply edible mushrooms in the garden."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Edible mushrooms", 
+        "Is organized by": [
+            {
+                "fulltext": "User:SawuGo", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:SawuGo", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418385478"
+        ]
+    }, 
+    "Session:Whiskey tasting & culinary event# 2bccd06912395d68720b4a2206747001": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419710400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will hold a Scottish whisky tasting event based on BYOD (Bring Your Own Drink) aka share your good whiskey with others, while the FHB crew surrounds this event with Scottish culinary gems like smoked salmon, cheeses, black pudding and haggis."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Whiskey tasting & culinary event", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bigmac", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Bigmac", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419717600"
+        ]
+    }, 
+    "Session:How to make fresh cheese (3)# 58ebdb1d88c31eafb227c783b7b1ece4": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "fr - French", 
+            "nl - Dutch"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Step 3: adding taste"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "How to make fresh cheese (3)", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Machtelt", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Machtelt", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "step 3"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418382782"
+        ]
+    }, 
+    "Session:Example Session# fb62525c0696832a02024b9f1ae0b689": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1419717600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Just to provide an example."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Example Assembly", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Example_Assembly", 
+                "exists": false
+            }
+        ], 
+        "Has title": "Example Session", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nexus", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Nexus", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Example Slot"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419724800"
+        ]
+    }, 
+    "Session:Queer Feminist Geek Gathering# 8676b21c04156e9518945dd76741e341": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419692400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A gathering for all the queer feminist geek folk. We will use it mainly for networking, exchanging our projects and ideas, and talk about how to make things better in geek culture for us and others."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_14", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Queer Feminist Geek Gathering", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Natanji", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Natanji", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Second room so we can split up the group if necessary (was necessary at the 30C3, and having only one room was a VERY heavy handicap where half the participants ended up talking outside)."
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419699600"
+        ]
+    }, 
+    "Session:SEX# 77bb406fca85e4f9ef982ac8f6a64a3b": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419882300"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SEX -- Seed EXchange\n\nWe provide a low profile platform for the exchange of __plant__ seeds."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaostreff Salzburg", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Chaostreff_Salzburg", 
+                "exists": true
+            }
+        ], 
+        "Has title": "SEX", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Finga", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Finga", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Alex.blackbit", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Alex.blackbit", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419884100"
+        ]
+    }, 
+    "Session:Cheese rendezvous# fa1c54f5900ae8f96463295a9cfc1376": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419876000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Lets enjoy cheeses and related condiments together!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Cheese rendezvous", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Algoldor", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "each session lasts for 90 min, starting at 18:00; 19:30 and 21:00"
+        ], 
+        "Has duration": [
+            270
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419892200"
+        ]
+    }, 
+    "Session:\"How to survive 31c3\" CryptoParty# 4aa86e747fa261273a33b0499e881fdc": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419696000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.cryptoparty.in/31c3"
+        ], 
+        "Has description": [
+            "A network full of hackers can be quite intimidating. We want to address all the questions many of the new visitors might have or regulars might be too afraid to ask by now. And if not all of them then the most urgent ones. The ones that keep your password from being projected onto a wall screen."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_A", 
+                "exists": true
+            }
+        ], 
+        "Has title": "\"How to survive 31c3\" CryptoParty", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mdik", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Mdik", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "We could move to Day 1, 20:00\u201322:00, as well if there is demand for that."
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419703200"
+        ]
+    }, 
+    "Session:Traditional makgeolli brewing# ded6cb9e8de220249132e093c63f1821": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419688800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Makgeolli_brewing_manual_-_short_workshop_form"
+        ], 
+        "Has description": [
+            "Basic introduction into the \"makgeolli\" making, traditional Korean alcoholic rice beverage, bit about it's history, current use and importantly how to make it by yourself!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Traditional makgeolli brewing", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Algoldor", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "brewing traditional alcoholic Korean rice beverage"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419696000"
+        ]
+    }, 
+    "Session:Ein B\u00fcndnis gegen \u00dcberwachung schmieden - Forging an alliance against mass surveillance# 3ad4c0205b48278f7de8e757985dba25": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419778800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wir m\u00f6chten die diesj\u00e4hrige Diskussion \u00fcber ein \"B\u00fcndnis gegen \u00dcberwachung\" mit Euch fortf\u00fchren.\n\nWe want to continue this year's discussion about an \"alliance against mass surveillance\"."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_14", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Ein B\u00fcndnis gegen \u00dcberwachung schmieden - Forging an alliance against mass surveillance", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Christian", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Christian", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419786000"
+        ]
+    }, 
+    "Session:Morning Tea with RIPE NCC# 7cbf5e20d3cbc841e52bbad39e06b5fd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419764400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://ripe.net", 
+            "http://atlas.ripe.net"
+        ], 
+        "Has description": [
+            "3 mornings about RIPE / NCC topics: RIPE Atlas, Internet Governance and IPv4 Hijacks. 11AM, Room 13, Tea!!!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_13", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Morning Tea with RIPE NCC", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Becha", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Becha", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Sunday Morning: (Day 2) Meetup with RIPE Atlas community -- For RIPE Atlas users old and new, experts and newbies, ambassadors and developers; presenting new features; listening to feature requests.\n\nOrganised by the Community Builder for Measurements Tools, Vesna Manojlovic\n\nThere will be tea!\n\nPrevious events: https://wiki.techinc.nl/index.php/RIPE_Atlas_probes_at_hackerspaces"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419766200"
+        ]
+    }, 
+    "Session:CCC Regiotreffen# e30ef95eb3281dd71e11d5ce77bdd981": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.ccc.de"
+        ], 
+        "Has description": [
+            "Regional meeting of the Chaos Computer Club. Not intended for the general public but not top secret either. If you don't know what this is, you should probably not go there"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_C", 
+                "exists": true
+            }
+        ], 
+        "Has title": "CCC Regiotreffen", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Unicorn", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Unicorn", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418392670"
+        ]
+    }, 
+    "Session:How to make fresh cheese (2)# 55a3a6a5f3c00b3f2fd53ba05fadbeba": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "fr - French", 
+            "nl - Dutch"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will separate the whey from the solid parts now."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "How to make fresh cheese (2)", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Machtelt", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Machtelt", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "step 2"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418384582"
+        ]
+    }, 
+    "Session:Tor Relay Operators Meetup# 8e1ae19eb1395d7b9828289f91b37a1d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419776100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.torservers.net/"
+        ], 
+        "Has description": [
+            "Tor relay operators meetup -- questions about running Tor relays?"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_A", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Tor Relay Operators Meetup", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mo", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Mo", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419783300"
+        ]
+    }, 
+    "Session:WeFixTheNet# 56f020d007ae2afd13c17755d266a97b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419764400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Luca Fulchir: \"The Fenrir Project: Why TLS sucks and what I'm doing about it\" (Introduction)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419768000"
+        ]
+    }, 
+    "Session:ArduinoForTotalNewbies# 11da5ced7eb3dc88562ea7ff8342f061": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "''Learn Arduino using TV-B-Gone as an example project''<br />\n<br />\nYou've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br />\n<br />\n''(This is one of many cool things happening throughout 31C3 in the huge '''Hardware Hacking Area!)'''''<br />\n<br />\nThis workshop will be given twice<br />(both identical):<br />\n&nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 12pm - 3:30pm<br />\n&nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 12pm - 3:30pm<br />"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Hardware_Hacking_Area", 
+                "exists": true
+            }
+        ], 
+        "Has title": "ArduinoForTotalNewbies", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Maltman23", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 2"
+        ], 
+        "Has duration": [
+            210
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418394453"
+        ]
+    }, 
+    "Session:Building an anycast VPN# 0b0850a1222450129648c94a196f56cf": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419786900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Discussion session about building an anycast-based VPN service on the Internet, for resilience, scalability, and fun."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:DIYISP", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:DIYISP", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Building an anycast VPN", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Zorun", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Zorun", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419792300"
+        ]
+    }, 
+    "Session:ArduinoForTotalNewbies# 646f91a69b74fced91a92d6d08bb6282": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "''Learn Arduino using TV-B-Gone as an example project''<br />\n<br />\nYou've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br />\n<br />\n''(This is one of many cool things happening throughout 31C3 in the huge '''Hardware Hacking Area!)'''''<br />\n<br />\nThis workshop will be given twice<br />(both identical):<br />\n&nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 12pm - 3:30pm<br />\n&nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 12pm - 3:30pm<br />"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Hardware_Hacking_Area", 
+                "exists": true
+            }
+        ], 
+        "Has title": "ArduinoForTotalNewbies", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Maltman23", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3"
+        ], 
+        "Has duration": [
+            210
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418394453"
+        ]
+    }, 
+    "Session:Mitgliederversammlung F\u00f6rderverein Gentoo e.V.# 9cd88add697a3746c4b9add74e96c4a2": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1419861600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.gentoo-ev.org/"
+        ], 
+        "Has description": [
+            "Mitgliederversammlung des F\u00f6rderverein Gentoo e.V."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 15", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_15", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Mitgliederversammlung F\u00f6rderverein Gentoo e.V.", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sping", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Sping", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419868800"
+        ]
+    }, 
+    "Session:Secure your Android-device# 0bf783463689a3f4d11a352290f6bbf1": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "You can turn your standard Android phone into a device which gives you significant more control over our data. It just needs a little bit of love and sacrifice."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has title": "Secure your Android-device", 
+        "Is organized by": [
+            {
+                "fulltext": "User:N0airc0n", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:N0airc0n", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Hands-On"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418389084"
+        ]
+    }, 
+    "Session:Queer Feminist Geek Gathering# f7c0bc6d51fbb6917b05361a1897cefe": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419692400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A gathering for all the queer feminist geek folk. We will use it mainly for networking, exchanging our projects and ideas, and talk about how to make things better in geek culture for us and others."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_13", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Queer Feminist Geek Gathering", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Natanji", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Natanji", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419699600"
+        ]
+    }, 
+    "Session:Vorstellung des Freifunk Forums# 88d646c4e77c87ad4572f7b4521dc376": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1419703200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://forum.freifunk-rheinland.net"
+        ], 
+        "Has description": [
+            "Im Westen hat sich innerhalb von ein paar Monaten ein gemeinsames Forum etabliert, in dem bereits \u00fcber 4000 Beitr\u00e4ge geschrieben worden. Mit der Software Discourse haben wir eine L\u00f6sung gefunden, die die Kommunikation der vereinzelten Communities stark verbessert hat. Lebhafter Austausch durch einfache Bedienbarkeit und Moderation durch ein Team von Engagierten k\u00f6nnen der gesamten Freifunk-Community helfen.\n\nZun\u00e4chst wird die Funktion der Software vorgef\u00fchrt und die wichtigsten Vorteile gegen\u00fcber Mailinglisten dargestellt. Au\u00dferdem gibt es einen Einblick in die Erfahrungen, die wir beim Betrieb des Forums gemacht haben. Der Vortrag dient auch als Input zur einer Diskussion, ob das Newsgroups und Mailinglisten langfristig abgel\u00f6st werden k\u00f6nnen."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Freifunk", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Freifunk", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Vorstellung des Freifunk Forums", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nomaster", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Nomaster", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419706800"
+        ]
+    }, 
+    "Session:The One Ring workshop# 8c9ecb215346651575533dcb8edc4a79": {
+        "Held in language": [
+            "af - Afrikaans", 
+            "de - German", 
+            "en - English", 
+            "nl - Dutch"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://sawugo.nl/#%21/?p=1743"
+        ], 
+        "Has description": [
+            "goldsmithing a silver ring"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has title": "The One Ring workshop", 
+        "Is organized by": [
+            {
+                "fulltext": "User:SawuGo", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:SawuGo", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "continous workshop, join whenever you want, takes around 90 minutes (depending on skill)"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418387257"
+        ]
+    }, 
+    "Session:WeFixTheNet# b7b2b485239a2110b78ca146212ccb2a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419760800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Bernd Paysan: \"net2o - reinventing the Internet: lightweight, scalable and userfriendly\" (Introduction)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419764400"
+        ]
+    }, 
+    "Session:Adopt your MEP# 978924e747c138f0761d4c8f83723482": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419782400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "As less and less legislation is coming from national governments and more and more policies are being decided by the EU, we need to take democratic participation to a whole new level. ACTA, net neutrality, surveillance measures - these and many other topics are decided in Brussels. We might not have the same resources as industry lobbyists, but we have the tools!\n\nSo how should an independent and non-partisan platform look like that could help us enter into a dialogue with our elected representatives? Memopol, PiPhone and Parltrack made a great start, join us for a brainstorming session on how to improve our tools for political engagement. Our goal is that all of us can take away experience on how to contact your MEPs and to share ideas for new tools"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 15", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_15", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Adopt your MEP", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kiki", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Kiki", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Walter", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Walter", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Brainstorm"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419786000"
+        ]
+    }, 
+    "Session:Morning Tea with RIPE NCC# 609a521fb34c56ef4ef1e8622f1e56ca": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419937200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://ripe.net", 
+            "http://atlas.ripe.net"
+        ], 
+        "Has description": [
+            "3 mornings about RIPE / NCC topics: RIPE Atlas, Internet Governance and IPv4 Hijacks. 11AM, Room 13, Tea!!!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_13", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Morning Tea with RIPE NCC", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Becha", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Becha", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Tuesday Morning: (Day 4)  IPv4 Hijacking\n\nIn the previous few years, number of IPv4 hijack cases increased, since IPv4 addresses have higher economic value due to IPv4 scarcity. Curious how does RIEP NCC deals with this, and what do we do to prevent it? \n\nhttp://www.ripe.net/internet-coordination/press-centre/publications/presentations/2014/ipv4-hijacking-our-experience"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419939000"
+        ]
+    }, 
+    "Session:WeFixTheNet# f482dbcc150113e19b8c9e58dbe028fc": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419778800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Florian Dold: Electronic Voting with SMC"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419782400"
+        ]
+    }, 
+    "Session:SEX# 36e225b4f9c16f22397947fdc4210018": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419709500"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SEX -- Seed EXchange\n\nWe provide a low profile platform for the exchange of __plant__ seeds."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaostreff Salzburg", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Chaostreff_Salzburg", 
+                "exists": true
+            }
+        ], 
+        "Has title": "SEX", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Finga", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Finga", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Alex.blackbit", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Alex.blackbit", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419711300"
+        ]
+    }, 
+    "Session:How to make fresh cheese# 24a63f889e9ac7bd65bd862baa8dfae4": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "fr - French", 
+            "nl - Dutch"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will start the making of a Boursin-style fresh herb cheese early on dring the Congress, so that it will be ready for the cheese tasting session."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "How to make fresh cheese", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Machtelt", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Machtelt", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "getting started"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418382782"
+        ]
+    }, 
+    "Session:TTIP & CETA - let's troll it!# 7ae53d3d72f006ad3d62eaf83844bf9f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419775200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Workshop on how to troll two of the biggest threats to democracy and the rule of law, disguised as free trade agreements. 2015 will be the year of non/ratification and negotiation of two EU deals that could end western democracy as we know it. Let's try to analyse pro TTIP and pro CETA propaganda and gather best counter-arguments."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Noisy Square", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Noisy_Square", 
+                "exists": true
+            }
+        ], 
+        "Has title": "TTIP & CETA - let's troll it!", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Drg", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Drg", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Walter", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Walter", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Rysiek", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Rysiek", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419782400"
+        ]
+    }, 
+    "Session:SEX# 5f6e10da8711b5d384b54e87dcdf1f93": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419693300"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SEX -- Seed EXchange\n\nWe provide a low profile platform for the exchange of __plant__ seeds."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaostreff Salzburg", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Chaostreff_Salzburg", 
+                "exists": true
+            }
+        ], 
+        "Has title": "SEX", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Finga", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Finga", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Alex.blackbit", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Alex.blackbit", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419695100"
+        ]
+    }, 
+    "Session:SEX# c98cc6f2a1bf6ea26ed67261bcdeee9a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419952500"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SEX -- Seed EXchange\n\nWe provide a low profile platform for the exchange of __plant__ seeds."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaostreff Salzburg", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Chaostreff_Salzburg", 
+                "exists": true
+            }
+        ], 
+        "Has title": "SEX", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Finga", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Finga", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Alex.blackbit", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Alex.blackbit", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419954300"
+        ]
+    }, 
+    "Session:WeFixTheNet# 023da24af52b417361a7fe7949ae0cd6": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419796800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Elijah: LEAP"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419798600"
+        ]
+    }, 
+    "Session:SEX# ef5e280f1427e1d94e75b2107cf3cf67": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419866100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SEX -- Seed EXchange\n\nWe provide a low profile platform for the exchange of __plant__ seeds."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaostreff Salzburg", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Chaostreff_Salzburg", 
+                "exists": true
+            }
+        ], 
+        "Has title": "SEX", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Finga", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Finga", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Alex.blackbit", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Alex.blackbit", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419867900"
+        ]
+    }, 
+    "Session:WeFixTheNet# 7021eb7254b944fa5fca899b99fff243": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419759000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Welcome (Introduction)"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419760800"
+        ]
+    }, 
+    "Session:How to make Mozarella# 2771acaca93fb0198483059538d5190b": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "fr - French", 
+            "nl - Dutch"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will make mozarella"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "How to make Mozarella", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Machtelt", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Machtelt", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418385478"
+        ]
+    }, 
+    "Session:LearnToSolder# c725c21dcaed5a2e50ab28297a156a37": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Hardware_Hacking_Area", 
+                "exists": true
+            }
+        ], 
+        "Has title": "LearnToSolder", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Maltman23", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 4"
+        ], 
+        "Has duration": [
+            239
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418396194"
+        ]
+    }, 
+    "Session:LearnToSolder# 3f231f83df817d491e7d96e8cd89b0d8": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Hardware_Hacking_Area", 
+                "exists": true
+            }
+        ], 
+        "Has title": "LearnToSolder", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Maltman23", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3"
+        ], 
+        "Has duration": [
+            779
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418428594"
+        ]
+    }, 
+    "Session:SEX# 3f50693ccc650a762b35c497db5a4792": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419779700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SEX -- Seed EXchange\n\nWe provide a low profile platform for the exchange of __plant__ seeds."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaostreff Salzburg", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Chaostreff_Salzburg", 
+                "exists": true
+            }
+        ], 
+        "Has title": "SEX", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Finga", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Finga", 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Alex.blackbit", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Alex.blackbit", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419781500"
+        ]
+    }, 
+    "Session:Angewandte Konsensdemokratie# e98781d5024c7032c281806723166e10": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1419768000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.premium-cola.de/kollektiv/workshop"
+        ], 
+        "Has description": [
+            "In diesem Workshop kann ge\u00fcbt werden, wie Entscheidungen im Konsensverfahren funktionieren. Damit k\u00f6nnen u.a. Hackerspaces (imho) kl\u00fcgere, sozialere und stabilere Entscheidungen treffen, als das ein Vereinsvorstand alleine k\u00f6nnte. Ich hab den workshop schon in ein paar Chaosnahen Rahmen gemacht, den Leuten gefiels (haben sie zumindest behauptet :-). Detaillierte Beschreibung der Inhalte hinter dem Link. Kommt alle!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_13", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Angewandte Konsensdemokratie", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Uwe premium", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Uwe_premium", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419771600"
+        ]
+    }, 
+    "Session:LearnToSolder# 16d4107157083320f6da67309dc3d6c2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Hardware_Hacking_Area", 
+                "exists": true
+            }
+        ], 
+        "Has title": "LearnToSolder", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Maltman23", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 1"
+        ], 
+        "Has duration": [
+            419
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418406994"
+        ]
+    }, 
+    "Session:WeFixTheNet# 605bea787b6ecfdb9c790df2f6a5be58": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419775200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Markus Benter: \"Decentralizing the Internet: Bridging the Gap between Theory and Practice\""
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419777000"
+        ]
+    }, 
+    "Session:Create a cookie cutter contest# 74b50f876f7b4ea6dbecdd38f8d720c4": {
+        "Held in language": [
+            "bo - Tibetan"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "create a cookie cutter contest... . I will bring material to make nice iron cookie cutters, pacman-cookie-cutter always get bonuspoints..."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Food Hacking Base", 
+                "namespace": 504, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Assembly:Food_Hacking_Base", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Create a cookie cutter contest", 
+        "Is organized by": [
+            {
+                "fulltext": "User:SawuGo", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:SawuGo", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1418383079"
+        ]
+    }, 
+    "Session:Verbesserung der Zusammenarbeit gegen Massen\u00fcberwachung - Improving inter-organizational work on mass surveillance# d980390db3ed42eec5c25fddd116d78b": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419876000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_14", 
+                "exists": true
+            }
+        ], 
+        "Has title": "Verbesserung der Zusammenarbeit gegen Massen\u00fcberwachung - Improving inter-organizational work on mass surveillance", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Christian", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Christian", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419883200"
+        ]
+    }, 
+    "Session:DO! NOT! TRACK!# bf47a3fa1ff4e07c2f39c52e9ce6acb0": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419861600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.privacymachine.eu/wiki/de/dataseal.html", 
+            "https://cryptoparty.at/_media/graz:oeh2014:4_surfing.pdf"
+        ], 
+        "Has description": [
+            "Einstellung des Browsers Firefox, um die Datenspur beim Surfen zu reduzieren. Massnahmen gegen kommerzielle \u00dcberwachung. \n----\nSetup for the browser Firefox to reduce the datatrace during surfing the web. Measures against commercial surveillance."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_13", 
+                "exists": true
+            }
+        ], 
+        "Has title": "DO! NOT! TRACK!", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Undead-engineer", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Undead-engineer", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419868800"
+        ]
+    }, 
+    "Session:WeFixTheNet# 135f46e6a7c959fcf4bb8c73fc91f768": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419768000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Nicolas Benes: \"Do Panic!\" (hopefully Hands-on!)"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419775200"
+        ]
+    }, 
+    "Session:WeFixTheNet# b763752d9be82801383562e88df48a15": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419782400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "tbd: Introduction to Ethereum"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419786000"
+        ]
+    }, 
+    "Session:WeFixTheNet# 12b9bee8a02d4d72aec9b3608fdadd4a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419800400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org/wefixthenet"
+        ], 
+        "Has description": [
+            "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "namespace": 516, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/Room:Hall_B", 
+                "exists": true
+            }
+        ], 
+        "Has title": "WeFixTheNet", 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "namespace": 2, 
+                "fullurl": "https://events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "GNUnet e.V. annual members meeting"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "Has end time": [
+            "1419801300"
+        ]
+    }
+}
