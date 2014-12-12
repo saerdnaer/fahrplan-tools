@@ -11,14 +11,8 @@ sessions_r = requests.get(
             '?Is organized by', 
             '?Has website'])
         ),
-        #('eq', 'yes'),
-        #('order_num', 'ASC'),
         ('p[format]', 'json'),
         ('p[limit]', 500),
-        #('p[sort]', ''),
-        ('p[order][ascending]', 1),
-        #('p[link]', 'all'),
-        #('ea', 'yes')
     ),
     verify=False #'cacert.pem'
 )
