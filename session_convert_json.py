@@ -162,7 +162,7 @@ def main():
     fp.close()
     
     fp = open("workshops.schedule.json", "w")
-    json.dump(schedule, fp, indent=4)
+    json.dump(workshop_schedule, fp, indent=4)
     fp.close()
 
     
