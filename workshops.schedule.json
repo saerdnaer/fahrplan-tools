@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "1.0 There were people", 
+        "version": "1.1 And people built machines", 
         "conference": {
             "title": "31. Chaos Communication Congress", 
             "start": "2014-12-27", 
@@ -14,9 +14,147 @@
                     "day_start": "2014-12-27T11:00:00+01:00", 
                     "day_end": "2014-12-28T04:00:00+01:00", 
                     "rooms": {
+                        "Hall A": [
+                            {
+                                "id": 119, 
+                                "guid": "e379ae114ebef5d98dca1f9dd926190c", 
+                                "logo": null, 
+                                "date": "2014-12-30T11:30:00+01:00", 
+                                "start": "11,30", 
+                                "duration": "0:50:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "About", 
+                                "subtitle": "Talk & Discussion", 
+                                "track": "self orgnaized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wie eine Gruppe ganz normaler Leute gegen den NSA-Skandal ank\u00e4mpft:<br />\nWir hacken Politik und Gesellschaft. Gespr\u00e4ch f\u00fcr Gespr\u00e4ch und Aufkleber f\u00fcr Aufkleber.<br />", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Musevg", 
+                                        "full_public_name": "Musevg", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.no-spy.org", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:About:_PrismLabs_und_No-Spy-Konferenz"
+                                ]
+                            }, 
+                            {
+                                "id": 158, 
+                                "guid": "78f4215e9ba6bb1329244bc0c0825f2f", 
+                                "logo": null, 
+                                "date": "2014-12-30T14:00:00+01:00", 
+                                "start": "14,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Abbaumeeting", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 139, 
+                                "guid": "a20e1d436dc8526cc667235548eee4ec", 
+                                "logo": null, 
+                                "date": "2014-12-26T14:00:00+01:00", 
+                                "start": "14,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Buildup- and welcome meeting", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 120, 
+                                "guid": "afd01e9ebb49e9b5ec6abe74a9747125", 
+                                "logo": null, 
+                                "date": "2014-12-26T21:00:00+01:00", 
+                                "start": "21,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Welcome meeting", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 130, 
+                                "guid": "62b00249a20a3ab830b5ca1196ed2e15", 
+                                "logo": null, 
+                                "date": "2014-12-26T22:00:00+01:00", 
+                                "start": "22,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Introduction Meeting for new angels", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }
+                        ], 
                         "Hall 13": [
                             {
-                                "id": 104, 
+                                "id": 108, 
                                 "guid": "609a521fb34c56ef4ef1e8622f1e56ca", 
                                 "logo": null, 
                                 "date": "2014-12-30T12:00:00+01:00", 
@@ -44,36 +182,6 @@
                                     "//events.ccc.de/congress/2014/wiki/Session:Morning_Tea_with_RIPE_NCC"
                                 ]
                             }
-                        ], 
-                        "Hall A": [
-                            {
-                                "id": 117, 
-                                "guid": "e379ae114ebef5d98dca1f9dd926190c", 
-                                "logo": null, 
-                                "date": "2014-12-30T11:30:00+01:00", 
-                                "start": "11,30", 
-                                "duration": "0:50:00", 
-                                "room": "Hall A", 
-                                "slug": "", 
-                                "title": "About", 
-                                "subtitle": "Talk & Discussion", 
-                                "track": "self orgnaized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Wie eine Gruppe ganz normaler Leute gegen den NSA-Skandal ank\u00e4mpft:<br />\nWir hacken Politik und Gesellschaft. Gespr\u00e4ch f\u00fcr Gespr\u00e4ch und Aufkleber f\u00fcr Aufkleber.<br />", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Musevg", 
-                                        "full_public_name": "Musevg", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "http://www.no-spy.org", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:About:_PrismLabs_und_No-Spy-Konferenz"
-                                ]
-                            }
                         ]
                     }
                 }, 
@@ -83,9 +191,178 @@
                     "day_start": "2014-12-28T11:30:00+01:00", 
                     "day_end": "2014-12-29T04:00:00+01:00", 
                     "rooms": {
+                        "Hall A": [
+                            {
+                                "id": 117, 
+                                "guid": "4aa86e747fa261273a33b0499e881fdc", 
+                                "logo": null, 
+                                "date": "2014-12-27T17:00:00+01:00", 
+                                "start": "17,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "\"How to survive 31c3\" CryptoParty", 
+                                "subtitle": "We could move to Day 1, 20:00\u201322:00, as well if there is demand for that.", 
+                                "track": "self orgnaized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A network full of hackers can be quite intimidating. We want to address all the questions many of the new visitors might have or regulars might be too afraid to ask by now. And if not all of them then the most urgent ones. The ones that keep your password from being projected onto a wall screen.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Mdik", 
+                                        "full_public_name": "Mdik", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.cryptoparty.in/31c3", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:%22How_to_survive_31c3%22_CryptoParty"
+                                ]
+                            }, 
+                            {
+                                "id": 124, 
+                                "guid": "53bc16bc9e957975eb741de545fb3d9c", 
+                                "logo": null, 
+                                "date": "2014-12-27T16:00:00+01:00", 
+                                "start": "16,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Introduction meeting for new angels", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 142, 
+                                "guid": "eb0725bd586d0ed24c77c9ef5ddcc19d", 
+                                "logo": null, 
+                                "date": "2014-12-27T14:00:00+01:00", 
+                                "start": "14,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angel meeting day 1", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 103, 
+                                "guid": "cce956f4b47ed2c887001443a3c17d8a", 
+                                "logo": null, 
+                                "date": "2014-12-27T20:45:00+01:00", 
+                                "start": "20,45", 
+                                "duration": "0:30:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting Day 1", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 127, 
+                                "guid": "5413f1f6852ca7ad936ff7386144581e", 
+                                "logo": null, 
+                                "date": "2014-12-27T20:45:00+01:00", 
+                                "start": "20,45", 
+                                "duration": "0:45:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Mobile Self-Defense", 
+                                "subtitle": "Detecting Intercept and Tracking attacks on Android phones.", 
+                                "track": "self orgnaized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Linuzifer", 
+                                        "full_public_name": "Linuzifer", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://gsmmap.org", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Mobile_Self-Defense"
+                                ]
+                            }
+                        ], 
+                        "Hall 15": [
+                            {
+                                "id": 159, 
+                                "guid": "899cae8375a5173dd6c775939e13b26f", 
+                                "logo": null, 
+                                "date": "2014-12-27T15:00:00+01:00", 
+                                "start": "15,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall 15", 
+                                "slug": "", 
+                                "title": "Breaking Bad Crypto", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Are you a programmer? Do you want to learn cryptography? Well the best way to do it is by breaking some!\n\nWe will walk through some badly implemented piece of cryptography and tear it apart together.\n\nBRING YOUR LAPTOP", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Filippo", 
+                                        "full_public_name": "Filippo", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "http://cryptography.training", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Breaking_Bad_Crypto"
+                                ]
+                            }
+                        ], 
                         "Hall 14": [
                             {
-                                "id": 100, 
+                                "id": 102, 
                                 "guid": "65eae619fea087a18ed4d41fe3684851", 
                                 "logo": null, 
                                 "date": "2014-12-27T14:00:00+01:00", 
@@ -113,7 +390,7 @@
                                 ]
                             }, 
                             {
-                                "id": 102, 
+                                "id": 106, 
                                 "guid": "8676b21c04156e9518945dd76741e341", 
                                 "logo": null, 
                                 "date": "2014-12-27T16:00:00+01:00", 
@@ -140,7 +417,7 @@
                                 ]
                             }, 
                             {
-                                "id": 109, 
+                                "id": 113, 
                                 "guid": "c2aafdafd08cc723e57cf388767ffa2c", 
                                 "logo": null, 
                                 "date": "2014-12-27T18:00:00+01:00", 
@@ -166,155 +443,39 @@
                                     "http://www.ravelry.com/projects/LanArta", 
                                     "//events.ccc.de/congress/2014/wiki/Session:Start_to_knit!"
                                 ]
-                            }
-                        ], 
-                        "Hall 13": [
-                            {
-                                "id": 101, 
-                                "guid": "342d752b18830fe906c6e0acb2061206", 
-                                "logo": null, 
-                                "date": "2014-12-28T01:00:00+01:00", 
-                                "start": "01,00", 
-                                "duration": "0:30:00", 
-                                "room": "Hall 13", 
-                                "slug": "", 
-                                "title": "RIPE Atlas probes", 
-                                "subtitle": "Meetup with RIPE Atlas community -- For RIPE Atlas users old and new, experts and newbies, ambassadors and developers; presenting new features; listening to feature requests.\n\nOrganised by the Community Builder for Measurements Tools, Vesna Manojlovic", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "TO BE DELETED  --- I created a new SERIES OF EVENTS!!!!", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Becha", 
-                                        "full_public_name": "Becha", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "http://atlas.ripe.net", 
-                                    "https://wiki.techinc.nl/index.php/RIPE_Atlas_probes_at_hackerspaces", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:RIPE_Atlas_probes"
-                                ]
                             }, 
                             {
-                                "id": 116, 
-                                "guid": "0f4a7f4400e06baa81ea1515cbb1b581", 
+                                "id": 169, 
+                                "guid": "4d4a93f8e9509de7c650f0bfbde58cf8", 
                                 "logo": null, 
-                                "date": "2014-12-27T20:45:00+01:00", 
-                                "start": "20,45", 
-                                "duration": "0:45:00", 
-                                "room": "Hall 13", 
+                                "date": "2014-12-27T18:00:00+01:00", 
+                                "start": "18,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall 14", 
                                 "slug": "", 
-                                "title": "Mobile Self-Defense", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Linuzifer", 
-                                        "full_public_name": "Linuzifer", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gsmmap.org", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:Mobile_Self-Defense"
-                                ]
-                            }, 
-                            {
-                                "id": 118, 
-                                "guid": "f8f122a547c3f4b52c0d92bfab074d62", 
-                                "logo": null, 
-                                "date": "2014-12-27T16:00:00+01:00", 
-                                "start": "16,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall 13", 
-                                "slug": "", 
-                                "title": "Queer Feminist Geek Gathering", 
+                                "title": "Umbrella org meetup", 
                                 "subtitle": "", 
                                 "track": "self orgnaized sessions", 
                                 "type": "meeting", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "A gathering for all the queer feminist geek folk. We will use it mainly for networking, exchanging our projects and ideas, and talk about how to make things better in geek culture for us and others.", 
+                                "description": "The \"Umbrella\" group invites people interested in umbrella organizations (orgs handling multiple projects) to a meetup.", 
                                 "persons": [
                                     {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Natanji", 
-                                        "full_public_name": "Natanji", 
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Mo", 
+                                        "full_public_name": "Mo", 
                                         "id": 0
                                     }
                                 ], 
                                 "links": [
-                                    "//events.ccc.de/congress/2014/wiki/Session:Queer_Feminist_Geek_Gathering"
-                                ]
-                            }
-                        ], 
-                        "Hall A": [
-                            {
-                                "id": 115, 
-                                "guid": "4aa86e747fa261273a33b0499e881fdc", 
-                                "logo": null, 
-                                "date": "2014-12-27T17:00:00+01:00", 
-                                "start": "17,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall A", 
-                                "slug": "", 
-                                "title": "\"How to survive 31c3\" CryptoParty", 
-                                "subtitle": "We could move to Day 1, 20:00\u201322:00, as well if there is demand for that.", 
-                                "track": "self orgnaized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "A network full of hackers can be quite intimidating. We want to address all the questions many of the new visitors might have or regulars might be too afraid to ask by now. And if not all of them then the most urgent ones. The ones that keep your password from being projected onto a wall screen.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Mdik", 
-                                        "full_public_name": "Mdik", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.cryptoparty.in/31c3", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:%22How_to_survive_31c3%22_CryptoParty"
+                                    "https://www.hacksalad.org/umbrella/", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Umbrella_org_meetup"
                                 ]
                             }
                         ], 
                         "Hall B": [
                             {
-                                "id": 120, 
-                                "guid": "7021eb7254b944fa5fca899b99fff243", 
-                                "logo": null, 
-                                "date": "2014-12-28T10:30:00+01:00", 
-                                "start": "10,30", 
-                                "duration": "0:30:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "Welcome (Introduction)", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }, 
-                            {
-                                "id": 126, 
+                                "id": 133, 
                                 "guid": "e75257d7080ed9ed84ed458913d76daa", 
                                 "logo": null, 
                                 "date": "2014-12-27T19:45:00+01:00", 
@@ -341,7 +502,40 @@
                                 ]
                             }, 
                             {
-                                "id": 134, 
+                                "id": 123, 
+                                "guid": "7021eb7254b944fa5fca899b99fff243", 
+                                "logo": null, 
+                                "date": "2014-12-28T10:30:00+01:00", 
+                                "start": "10,30", 
+                                "duration": "0:30:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "Welcome (Introduction)", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
+                                ]
+                            }, 
+                            {
+                                "id": 101, 
                                 "guid": "b7b2b485239a2110b78ca146212ccb2a", 
                                 "logo": null, 
                                 "date": "2014-12-28T11:00:00+01:00", 
@@ -361,411 +555,10 @@
                                         "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
                                         "full_public_name": "Grothoff", 
                                         "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }
-                        ], 
-                        "Hall 15": [
-                            {
-                                "id": 144, 
-                                "guid": "899cae8375a5173dd6c775939e13b26f", 
-                                "logo": null, 
-                                "date": "2014-12-27T15:00:00+01:00", 
-                                "start": "15,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall 15", 
-                                "slug": "", 
-                                "title": "Breaking Bad Crypto", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Are you a programmer? Do you want to learn cryptography? Well the best way to do it is by breaking some!\n\nWe will walk through some badly implemented piece of cryptography and tear it apart together.\n\nBRING YOUR LAPTOP", 
-                                "persons": [
+                                    }, 
                                     {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Filippo", 
-                                        "full_public_name": "Filippo", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "http://cryptography.training", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:Breaking_Bad_Crypto"
-                                ]
-                            }
-                        ]
-                    }
-                }, 
-                {
-                    "index": 2, 
-                    "date": "2014-12-29", 
-                    "day_start": "2014-12-29T11:30:00+01:00", 
-                    "day_end": "2014-12-30T04:00:00+01:00", 
-                    "rooms": {
-                        "Hall A": [
-                            {
-                                "id": 103, 
-                                "guid": "5547d4f159e5bf4d2d9f842343bf7a07", 
-                                "logo": null, 
-                                "date": "2014-12-28T11:30:00+01:00", 
-                                "start": "11,30", 
-                                "duration": "0:50:00", 
-                                "room": "Hall A", 
-                                "slug": "", 
-                                "title": "Anonymes Handy, anonyme Kreditkarte", 
-                                "subtitle": "Talk & Discussion", 
-                                "track": "self orgnaized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Sowohl Mobilfunk- als auch Kreditkarten werden in DE nur nach Identit\u00e4tspr\u00fcfung abgegeben bzw. aktiviert.<br />\nDamit ist es nicht ganz so einfach, bei $Transaktionen im Internet Anonymit\u00e4t zu wahren.<br />\nIch zeige in dieser Session, wie sich jeder mit \u00fcberschaubarem Aufwand ein anonymes Prepaid-Handy und eine anonyme Prepaid-Kreditkarte zulegen kann.<br />", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Musevg", 
-                                        "full_public_name": "Musevg", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "http://www.no-spy.org", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:Anonymes_Handy,_anonyme_Kreditkarte"
-                                ]
-                            }, 
-                            {
-                                "id": 112, 
-                                "guid": "5ecd425aaf2a63b059d6b2d891dce3e8", 
-                                "logo": null, 
-                                "date": "2014-12-28T18:15:00+01:00", 
-                                "start": "18,15", 
-                                "duration": "1:30:00", 
-                                "room": "Hall A", 
-                                "slug": "", 
-                                "title": "C3S", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Die Cultural Commons Collecting Society (C3S) arbeitet seit 2010 darauf hin, offiziell als alternative Verwertungsgesellschaft f\u00fcr Musik anerkannt zu werden. Wir fassen in dieser Session zusammen, was dabei 2014 alles passiert ist, und wollen auch vorstellen, wie man uns bei der Softwareentwicklung konkret weiterhelfen kann.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:93J9dyAeBnyn3", 
-                                        "full_public_name": "93J9dyAeBnyn3", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.c3s.cc", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:C3S:_Konkurrenz_f%C3%BCr_die_GEMA"
-                                ]
-                            }, 
-                            {
-                                "id": 124, 
-                                "guid": "c5460c59137a843c4eb8aadf193a4414", 
-                                "logo": null, 
-                                "date": "2014-12-28T15:15:00+01:00", 
-                                "start": "15,15", 
-                                "duration": "2:00:00", 
-                                "room": "Hall A", 
-                                "slug": "", 
-                                "title": "Tor Relay Operators Meetup", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Tor relay operators meetup -- questions about running Tor relays?", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Mo", 
-                                        "full_public_name": "Mo", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.torservers.net/", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:Tor_Relay_Operators_Meetup"
-                                ]
-                            }
-                        ], 
-                        "Hall B": [
-                            {
-                                "id": 105, 
-                                "guid": "023da24af52b417361a7fe7949ae0cd6", 
-                                "logo": null, 
-                                "date": "2014-12-28T21:00:00+01:00", 
-                                "start": "21,00", 
-                                "duration": "0:30:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "Elijah: LEAP", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }, 
-                            {
-                                "id": 110, 
-                                "guid": "b763752d9be82801383562e88df48a15", 
-                                "logo": null, 
-                                "date": "2014-12-28T17:00:00+01:00", 
-                                "start": "17,00", 
-                                "duration": "1:00:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "tbd: Introduction to Ethereum", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }, 
-                            {
-                                "id": 113, 
-                                "guid": "9751bfbdc8c7afda96b89bc3683e2eb9", 
-                                "logo": null, 
-                                "date": "2014-12-28T15:30:00+01:00", 
-                                "start": "15,30", 
-                                "duration": "0:30:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "Florian Dold & Christian Grothoff: \"Taler\" (Introduction)", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }, 
-                            {
-                                "id": 114, 
-                                "guid": "20b8a3cdcd946e1a4b0430e938a24a95", 
-                                "logo": null, 
-                                "date": "2014-12-28T21:30:00+01:00", 
-                                "start": "21,30", 
-                                "duration": "0:30:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "Kload: Plug & Play Server", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }, 
-                            {
-                                "id": 125, 
-                                "guid": "3de5d948407ee700923cdf697c122848", 
-                                "logo": null, 
-                                "date": "2014-12-28T18:00:00+01:00", 
-                                "start": "18,00", 
-                                "duration": "3:00:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "tbd", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }, 
-                            {
-                                "id": 128, 
-                                "guid": "f482dbcc150113e19b8c9e58dbe028fc", 
-                                "logo": null, 
-                                "date": "2014-12-28T16:00:00+01:00", 
-                                "start": "16,00", 
-                                "duration": "1:00:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "Florian Dold: Electronic Voting with SMC", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }, 
-                            {
-                                "id": 138, 
-                                "guid": "135f46e6a7c959fcf4bb8c73fc91f768", 
-                                "logo": null, 
-                                "date": "2014-12-28T13:00:00+01:00", 
-                                "start": "13,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "Nicolas Benes: \"Do Panic!\" (hopefully Hands-on!)", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }, 
-                            {
-                                "id": 139, 
-                                "guid": "56f020d007ae2afd13c17755d266a97b", 
-                                "logo": null, 
-                                "date": "2014-12-28T12:00:00+01:00", 
-                                "start": "12,00", 
-                                "duration": "1:00:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "Luca Fulchir: \"The Fenrir Project: Why TLS sucks and what I'm doing about it\" (Introduction)", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }, 
-                            {
-                                "id": 145, 
-                                "guid": "12b9bee8a02d4d72aec9b3608fdadd4a", 
-                                "logo": null, 
-                                "date": "2014-12-28T22:00:00+01:00", 
-                                "start": "22,00", 
-                                "duration": "0:15:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "GNUnet e.V. annual members meeting", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://gnunet.org/wefixthenet", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
-                                ]
-                            }, 
-                            {
-                                "id": 149, 
-                                "guid": "605bea787b6ecfdb9c790df2f6a5be58", 
-                                "logo": null, 
-                                "date": "2014-12-28T15:00:00+01:00", 
-                                "start": "15,00", 
-                                "duration": "0:30:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "WeFixTheNet", 
-                                "subtitle": "Markus Benter: \"Decentralizing the Internet: Bridging the Gap between Theory and Practice\"", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
-                                        "full_public_name": "Grothoff", 
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
                                         "id": 0
                                     }
                                 ], 
@@ -777,39 +570,163 @@
                         ], 
                         "Hall 13": [
                             {
-                                "id": 106, 
-                                "guid": "804a28c4d9b0fe920f9eae5a3f6b5ef1", 
+                                "id": 121, 
+                                "guid": "f8f122a547c3f4b52c0d92bfab074d62", 
                                 "logo": null, 
-                                "date": "2014-12-28T18:45:00+01:00", 
-                                "start": "18,45", 
-                                "duration": "2:15:00", 
+                                "date": "2014-12-27T16:00:00+01:00", 
+                                "start": "16,00", 
+                                "duration": "2:00:00", 
                                 "room": "Hall 13", 
                                 "slug": "", 
-                                "title": "SDR for noobs", 
+                                "title": "Queer Feminist Geek Gathering", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "A gathering for all the queer feminist geek folk. We will use it mainly for networking, exchanging our projects and ideas, and talk about how to make things better in geek culture for us and others.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Natanji", 
+                                        "full_public_name": "Natanji", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Queer_Feminist_Geek_Gathering"
+                                ]
+                            }, 
+                            {
+                                "id": 104, 
+                                "guid": "342d752b18830fe906c6e0acb2061206", 
+                                "logo": null, 
+                                "date": "2014-12-28T01:00:00+01:00", 
+                                "start": "01,00", 
+                                "duration": "0:30:00", 
+                                "room": "Hall 13", 
+                                "slug": "", 
+                                "title": "RIPE Atlas probes", 
+                                "subtitle": "Meetup with RIPE Atlas community -- For RIPE Atlas users old and new, experts and newbies, ambassadors and developers; presenting new features; listening to feature requests.\n\nOrganised by the Community Builder for Measurements Tools, Vesna Manojlovic", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "TO BE DELETED  --- I created a new SERIES OF EVENTS!!!!", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Becha", 
+                                        "full_public_name": "Becha", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "http://atlas.ripe.net", 
+                                    "https://wiki.techinc.nl/index.php/RIPE_Atlas_probes_at_hackerspaces", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:RIPE_Atlas_probes"
+                                ]
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "index": 2, 
+                    "date": "2014-12-29", 
+                    "day_start": "2014-12-29T11:30:00+01:00", 
+                    "day_end": "2014-12-30T04:00:00+01:00", 
+                    "rooms": {
+                        "Hall 15": [
+                            {
+                                "id": 148, 
+                                "guid": "978924e747c138f0761d4c8f83723482", 
+                                "logo": null, 
+                                "date": "2014-12-28T17:00:00+01:00", 
+                                "start": "17,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall 15", 
+                                "slug": "", 
+                                "title": "Adopt your MEP", 
+                                "subtitle": "Brainstorm", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "As less and less legislation is coming from national governments and more and more policies are being decided by the EU, we need to take democratic participation to a whole new level. ACTA, net neutrality, surveillance measures - these and many other topics are decided in Brussels. We might not have the same resources as industry lobbyists, but we have the tools!\n\nSo how should an independent and non-partisan platform look like that could help us enter into a dialogue with our elected representatives? Memopol, PiPhone and Parltrack made a great start, join us for a brainstorming session on how to improve our tools for political engagement. Our goal is that all of us can take away experience on how to contact your MEPs and to share ideas for new tools", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Kiki", 
+                                        "full_public_name": "Kiki", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Walter", 
+                                        "full_public_name": "Walter", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Adopt_your_MEP"
+                                ]
+                            }, 
+                            {
+                                "id": 161, 
+                                "guid": "325184b0fb233d04c803a277c2026cdf", 
+                                "logo": null, 
+                                "date": "2014-12-28T15:00:00+01:00", 
+                                "start": "15,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall 15", 
+                                "slug": "", 
+                                "title": "Arch Linux Workshop", 
                                 "subtitle": "", 
                                 "track": "self orgnaized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Get started with some simple Software Defined Radio.\n\nPlease install GnuRadio. No hardware required, we will provide files with captured data.", 
+                                "description": "A workshop focusing on all aspects of Arch Linux: installation, maintenance, exchange of ideas and experiences, advanced techniques and tips. Open to everyone. Might turn into a mass install party of Arch.", 
                                 "persons": [
                                     {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Schneider", 
-                                        "full_public_name": "Schneider", 
-                                        "id": 0
-                                    }, 
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Sec", 
-                                        "full_public_name": "Sec", 
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Yuvadm", 
+                                        "full_public_name": "Yuvadm", 
                                         "id": 0
                                     }
                                 ], 
                                 "links": [
-                                    "//events.ccc.de/congress/2014/wiki/Session:SDR_for_noobs"
+                                    "https://www.archlinux.org/", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Arch_Linux_Workshop"
                                 ]
                             }, 
                             {
-                                "id": 129, 
+                                "id": 134, 
+                                "guid": "82eed309cfd8603322a20c42b388f41c", 
+                                "logo": null, 
+                                "date": "2014-12-28T19:00:00+01:00", 
+                                "start": "19,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall 15", 
+                                "slug": "", 
+                                "title": "Meeting of CryptoParty organizers", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "CryptoParty is a decentralized, selforganized, global movement. This means it's easy to lose touch. We want to change that a bit \u2013 at least for organizers of CryptoParties who attend 31c3. Let's meet and see where we go from there.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Mdik", 
+                                        "full_public_name": "Mdik", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://cryptoparty.in/31c3", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Meeting_of_CryptoParty_organizers"
+                                ]
+                            }
+                        ], 
+                        "Hall 13": [
+                            {
+                                "id": 137, 
                                 "guid": "62284a71a3b72316a97d4b6a911aaef2", 
                                 "logo": null, 
                                 "date": "2014-12-28T13:00:00+01:00", 
@@ -837,7 +754,7 @@
                                 ]
                             }, 
                             {
-                                "id": 140, 
+                                "id": 135, 
                                 "guid": "2b1684332c3c45020c8fccf91ab58e66", 
                                 "logo": null, 
                                 "date": "2014-12-28T16:00:00+01:00", 
@@ -874,7 +791,7 @@
                                 ]
                             }, 
                             {
-                                "id": 151, 
+                                "id": 168, 
                                 "guid": "7cbf5e20d3cbc841e52bbad39e06b5fd", 
                                 "logo": null, 
                                 "date": "2014-12-28T12:00:00+01:00", 
@@ -903,36 +820,292 @@
                                 ]
                             }, 
                             {
-                                "id": 152, 
-                                "guid": "f5d3d6cf939e40e2765bf826a1494446", 
+                                "id": 110, 
+                                "guid": "804a28c4d9b0fe920f9eae5a3f6b5ef1", 
                                 "logo": null, 
-                                "date": "2014-12-29T01:00:00+01:00", 
-                                "start": "01,00", 
-                                "duration": "1:00:00", 
+                                "date": "2014-12-28T18:45:00+01:00", 
+                                "start": "18,45", 
+                                "duration": "2:15:00", 
                                 "room": "Hall 13", 
                                 "slug": "", 
-                                "title": "U.S. and International Anti-Surveillance Activism", 
+                                "title": "SDR for noobs", 
                                 "subtitle": "", 
                                 "track": "self orgnaized sessions", 
-                                "type": "discussion", 
+                                "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Discussion about how anti-surveillance activists in the US and abroad can share knowledge and work together.", 
+                                "description": "Get started with some simple Software Defined Radio.\n\nPlease install GnuRadio. No hardware required, we will provide files with captured data.", 
                                 "persons": [
                                     {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Ontological", 
-                                        "full_public_name": "Ontological", 
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Schneider", 
+                                        "full_public_name": "Schneider", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Sec", 
+                                        "full_public_name": "Sec", 
                                         "id": 0
                                     }
                                 ], 
                                 "links": [
-                                    "//events.ccc.de/congress/2014/wiki/Session:U.S._and_International_Anti-Surveillance_Activism:_How_we_can_work_together,_and_what_obstacles_we_face"
+                                    "//events.ccc.de/congress/2014/wiki/Session:SDR_for_noobs"
+                                ]
+                            }
+                        ], 
+                        "Hall A": [
+                            {
+                                "id": 107, 
+                                "guid": "5547d4f159e5bf4d2d9f842343bf7a07", 
+                                "logo": null, 
+                                "date": "2014-12-28T11:30:00+01:00", 
+                                "start": "11,30", 
+                                "duration": "0:50:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Anonymes Handy, anonyme Kreditkarte", 
+                                "subtitle": "Talk & Discussion", 
+                                "track": "self orgnaized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Sowohl Mobilfunk- als auch Kreditkarten werden in DE nur nach Identit\u00e4tspr\u00fcfung abgegeben bzw. aktiviert.<br />\nDamit ist es nicht ganz so einfach, bei $Transaktionen im Internet Anonymit\u00e4t zu wahren.<br />\nIch zeige in dieser Session, wie sich jeder mit \u00fcberschaubarem Aufwand ein anonymes Prepaid-Handy und eine anonyme Prepaid-Kreditkarte zulegen kann.<br />", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Musevg", 
+                                        "full_public_name": "Musevg", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.no-spy.org", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Anonymes_Handy,_anonyme_Kreditkarte"
+                                ]
+                            }, 
+                            {
+                                "id": 116, 
+                                "guid": "5ecd425aaf2a63b059d6b2d891dce3e8", 
+                                "logo": null, 
+                                "date": "2014-12-28T18:15:00+01:00", 
+                                "start": "18,15", 
+                                "duration": "1:30:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "C3S", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Die Cultural Commons Collecting Society (C3S) arbeitet seit 2010 darauf hin, offiziell als alternative Verwertungsgesellschaft f\u00fcr Musik anerkannt zu werden. Wir fassen in dieser Session zusammen, was dabei 2014 alles passiert ist, und wollen auch vorstellen, wie man uns bei der Softwareentwicklung konkret weiterhelfen kann.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:93J9dyAeBnyn3", 
+                                        "full_public_name": "93J9dyAeBnyn3", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.c3s.cc", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:C3S:_Konkurrenz_f%C3%BCr_die_GEMA"
+                                ]
+                            }, 
+                            {
+                                "id": 136, 
+                                "guid": "cc914bd624abe506c8df842daaca017d", 
+                                "logo": null, 
+                                "date": "2014-12-28T14:00:00+01:00", 
+                                "start": "14,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting Day 2", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 126, 
+                                "guid": "b1d7772fd43aba49af063c361317fa52", 
+                                "logo": null, 
+                                "date": "2014-12-28T20:45:00+01:00", 
+                                "start": "20,45", 
+                                "duration": "0:30:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting day 2", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 153, 
+                                "guid": "73106ca6a6d433b7e3bb480342d3bc18", 
+                                "logo": null, 
+                                "date": "2014-12-28T16:00:00+01:00", 
+                                "start": "16,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Introduction meeting for new angels", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 131, 
+                                "guid": "c5460c59137a843c4eb8aadf193a4414", 
+                                "logo": null, 
+                                "date": "2014-12-28T15:15:00+01:00", 
+                                "start": "15,15", 
+                                "duration": "2:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Tor Relay Operators Meetup", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Tor relay operators meetup -- questions about running Tor relays?", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Mo", 
+                                        "full_public_name": "Mo", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.torservers.net/", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Tor_Relay_Operators_Meetup"
+                                ]
+                            }
+                        ], 
+                        "Hall C": [
+                            {
+                                "id": 162, 
+                                "guid": "b2893fd9488ed7b1c7213797bd3c6fb2", 
+                                "logo": null, 
+                                "date": "2014-12-28T16:00:00+01:00", 
+                                "start": "16,00", 
+                                "duration": "3:00:00", 
+                                "room": "Hall C", 
+                                "slug": "", 
+                                "title": "CCC Regiotreffen", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Regional meeting of the Chaos Computer Club. Not intended for the general public but not top secret either. If you don't know what this is, you should probably not go there.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Unicorn", 
+                                        "full_public_name": "Unicorn", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.ccc.de", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:CCC_Regiotreffen"
+                                ]
+                            }, 
+                            {
+                                "id": 166, 
+                                "guid": "7000e77f016f6755b4cab0bfec35e179", 
+                                "logo": null, 
+                                "date": "2014-12-28T19:00:00+01:00", 
+                                "start": "19,00", 
+                                "duration": "4:00:00", 
+                                "room": "Hall C", 
+                                "slug": "", 
+                                "title": "Keysigning Party", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "The aim of this Workshop is to strengthen the Web of Trust by signing OpenPGP keys of other people and receiving signatures from others.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Th", 
+                                        "full_public_name": "Th", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Keysigning_Party"
                                 ]
                             }
                         ], 
                         "Hall 14": [
                             {
-                                "id": 119, 
+                                "id": 128, 
+                                "guid": "03aee8d89c4cb63a5a55b719a83760f7", 
+                                "logo": null, 
+                                "date": "2014-12-28T16:00:00+01:00", 
+                                "start": "16,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall 14", 
+                                "slug": "", 
+                                "title": "Ein B\u00fcndnis gegen \u00dcberwachung schmieden - Forging an alliance against mass surveillance", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wir m\u00f6chten die diesj\u00e4hrige Diskussion \u00fcber ein \"B\u00fcndnis gegen \u00dcberwachung\" mit Euch fortf\u00fchren.\n\nWe want to continue this year's discussion about an \"alliance against mass surveillance\".", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Christian", 
+                                        "full_public_name": "Christian", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Ein_B%C3%BCndnis_gegen_%C3%9Cberwachung_schmieden_-_Forging_an_alliance_against_mass_surveillance"
+                                ]
+                            }, 
+                            {
+                                "id": 122, 
                                 "guid": "e9a791b8cce03b59d82ff641c2d1b003", 
                                 "logo": null, 
                                 "date": "2014-12-28T19:00:00+01:00", 
@@ -959,7 +1132,7 @@
                                 ]
                             }, 
                             {
-                                "id": 121, 
+                                "id": 125, 
                                 "guid": "e1b45f6036e989d8a9a9c2d66f430c56", 
                                 "logo": null, 
                                 "date": "2014-12-28T18:00:00+01:00", 
@@ -984,179 +1157,370 @@
                                 "links": [
                                     "//events.ccc.de/congress/2014/wiki/Session:Multimeter_Calibration_Party"
                                 ]
-                            }, 
-                            {
-                                "id": 122, 
-                                "guid": "03aee8d89c4cb63a5a55b719a83760f7", 
-                                "logo": null, 
-                                "date": "2014-12-28T16:00:00+01:00", 
-                                "start": "16,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall 14", 
-                                "slug": "", 
-                                "title": "Ein B\u00fcndnis gegen \u00dcberwachung schmieden - Forging an alliance against mass surveillance", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "discussion", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Wir m\u00f6chten die diesj\u00e4hrige Diskussion \u00fcber ein \"B\u00fcndnis gegen \u00dcberwachung\" mit Euch fortf\u00fchren.\n\nWe want to continue this year's discussion about an \"alliance against mass surveillance\".", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Christian", 
-                                        "full_public_name": "Christian", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "//events.ccc.de/congress/2014/wiki/Session:Ein_B%C3%BCndnis_gegen_%C3%9Cberwachung_schmieden_-_Forging_an_alliance_against_mass_surveillance"
-                                ]
                             }
                         ], 
-                        "Hall 15": [
+                        "Hall B": [
                             {
-                                "id": 127, 
-                                "guid": "82eed309cfd8603322a20c42b388f41c", 
+                                "id": 140, 
+                                "guid": "20b8a3cdcd946e1a4b0430e938a24a95", 
                                 "logo": null, 
-                                "date": "2014-12-28T19:00:00+01:00", 
-                                "start": "19,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall 15", 
+                                "date": "2014-12-28T21:30:00+01:00", 
+                                "start": "21,30", 
+                                "duration": "0:30:00", 
+                                "room": "Hall B", 
                                 "slug": "", 
-                                "title": "Meeting of CryptoParty organizers", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "CryptoParty is a decentralized, selforganized, global movement. This means it's easy to lose touch. We want to change that a bit \u2013 at least for organizers of CryptoParties who attend 31c3. Let's meet and see where we go from there.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Mdik", 
-                                        "full_public_name": "Mdik", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://cryptoparty.in/31c3", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:Meeting_of_CryptoParty_organizers"
-                                ]
-                            }, 
-                            {
-                                "id": 130, 
-                                "guid": "325184b0fb233d04c803a277c2026cdf", 
-                                "logo": null, 
-                                "date": "2014-12-28T15:00:00+01:00", 
-                                "start": "15,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall 15", 
-                                "slug": "", 
-                                "title": "Arch Linux Workshop", 
-                                "subtitle": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "Kload: Plug & Play Server", 
                                 "track": "self orgnaized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "A workshop focusing on all aspects of Arch Linux: installation, maintenance, exchange of ideas and experiences, advanced techniques and tips. Open to everyone. Might turn into a mass install party of Arch.", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
                                 "persons": [
                                     {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Yuvadm", 
-                                        "full_public_name": "Yuvadm", 
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
                                         "id": 0
                                     }
                                 ], 
                                 "links": [
-                                    "https://www.archlinux.org/", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:Arch_Linux_Workshop"
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
                                 ]
                             }, 
                             {
-                                "id": 135, 
-                                "guid": "978924e747c138f0761d4c8f83723482", 
+                                "id": 165, 
+                                "guid": "dc01b489be2c51f52401f80a5d13d9c5", 
+                                "logo": null, 
+                                "date": "2014-12-28T19:00:00+01:00", 
+                                "start": "19,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "tbd", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
+                                ]
+                            }, 
+                            {
+                                "id": 154, 
+                                "guid": "56f020d007ae2afd13c17755d266a97b", 
+                                "logo": null, 
+                                "date": "2014-12-28T12:00:00+01:00", 
+                                "start": "12,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "Luca Fulchir: \"The Fenrir Project: Why TLS sucks and what I'm doing about it\" (Introduction)", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
+                                ]
+                            }, 
+                            {
+                                "id": 105, 
+                                "guid": "1b865f5fbc5d6af965e9a94c2bd5f7e8", 
+                                "logo": null, 
+                                "date": "2014-12-28T15:00:00+01:00", 
+                                "start": "15,00", 
+                                "duration": "0:30:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "Markus Benter: \"Complex Queries in Peer-to-Peer Networks\"", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
+                                ]
+                            }, 
+                            {
+                                "id": 160, 
+                                "guid": "12b9bee8a02d4d72aec9b3608fdadd4a", 
+                                "logo": null, 
+                                "date": "2014-12-28T22:00:00+01:00", 
+                                "start": "22,00", 
+                                "duration": "0:15:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "GNUnet e.V. annual members meeting", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
+                                ]
+                            }, 
+                            {
+                                "id": 144, 
+                                "guid": "03f096b416df1a6bbbe398fdd1cfc102", 
+                                "logo": null, 
+                                "date": "2014-12-28T18:00:00+01:00", 
+                                "start": "18,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "Markus + Sunil: FreedomBox Update", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
+                                ]
+                            }, 
+                            {
+                                "id": 150, 
+                                "guid": "135f46e6a7c959fcf4bb8c73fc91f768", 
+                                "logo": null, 
+                                "date": "2014-12-28T13:00:00+01:00", 
+                                "start": "13,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "Nicolas Benes: \"Do Panic!\" (hopefully Hands-on!)", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
+                                ]
+                            }, 
+                            {
+                                "id": 147, 
+                                "guid": "23d7c0761dcac66d975c0530098c432d", 
+                                "logo": null, 
+                                "date": "2014-12-28T15:30:00+01:00", 
+                                "start": "15,30", 
+                                "duration": "0:30:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "Christian Grothoff: \"Taler\" (Introduction)", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
+                                ]
+                            }, 
+                            {
+                                "id": 138, 
+                                "guid": "f482dbcc150113e19b8c9e58dbe028fc", 
+                                "logo": null, 
+                                "date": "2014-12-28T16:00:00+01:00", 
+                                "start": "16,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "Florian Dold: Electronic Voting with SMC", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
+                                ]
+                            }, 
+                            {
+                                "id": 114, 
+                                "guid": "b763752d9be82801383562e88df48a15", 
                                 "logo": null, 
                                 "date": "2014-12-28T17:00:00+01:00", 
                                 "start": "17,00", 
                                 "duration": "1:00:00", 
-                                "room": "Hall 15", 
+                                "room": "Hall B", 
                                 "slug": "", 
-                                "title": "Adopt your MEP", 
-                                "subtitle": "Brainstorm", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "tbd: Introduction to Ethereum", 
                                 "track": "self orgnaized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "As less and less legislation is coming from national governments and more and more policies are being decided by the EU, we need to take democratic participation to a whole new level. ACTA, net neutrality, surveillance measures - these and many other topics are decided in Brussels. We might not have the same resources as industry lobbyists, but we have the tools!\n\nSo how should an independent and non-partisan platform look like that could help us enter into a dialogue with our elected representatives? Memopol, PiPhone and Parltrack made a great start, join us for a brainstorming session on how to improve our tools for political engagement. Our goal is that all of us can take away experience on how to contact your MEPs and to share ideas for new tools", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
                                 "persons": [
                                     {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Kiki", 
-                                        "full_public_name": "Kiki", 
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
                                         "id": 0
                                     }, 
                                     {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Walter", 
-                                        "full_public_name": "Walter", 
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
                                         "id": 0
                                     }
                                 ], 
                                 "links": [
-                                    "//events.ccc.de/congress/2014/wiki/Session:Adopt_your_MEP"
-                                ]
-                            }
-                        ], 
-                        "Hall C": [
-                            {
-                                "id": 143, 
-                                "guid": "7000e77f016f6755b4cab0bfec35e179", 
-                                "logo": null, 
-                                "date": "2014-12-28T19:00:00+01:00", 
-                                "start": "19,00", 
-                                "duration": "4:00:00", 
-                                "room": "Hall C", 
-                                "slug": "", 
-                                "title": "Keysigning Party", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "The aim of this Workshop is to strengthen the Web of Trust by signing OpenPGP keys of other people and receiving signatures from others.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Th", 
-                                        "full_public_name": "Th", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "//events.ccc.de/congress/2014/wiki/Session:Keysigning_Party"
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
                                 ]
                             }, 
                             {
-                                "id": 146, 
-                                "guid": "b2893fd9488ed7b1c7213797bd3c6fb2", 
+                                "id": 109, 
+                                "guid": "023da24af52b417361a7fe7949ae0cd6", 
                                 "logo": null, 
-                                "date": "2014-12-28T16:00:00+01:00", 
-                                "start": "16,00", 
-                                "duration": "3:00:00", 
-                                "room": "Hall C", 
+                                "date": "2014-12-28T21:00:00+01:00", 
+                                "start": "21,00", 
+                                "duration": "0:30:00", 
+                                "room": "Hall B", 
                                 "slug": "", 
-                                "title": "CCC Regiotreffen", 
-                                "subtitle": "", 
+                                "title": "WeFixTheNet", 
+                                "subtitle": "Elijah: LEAP", 
                                 "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
+                                "type": "workshop", 
+                                "language": "en", 
                                 "abstract": "", 
-                                "description": "Regional meeting of the Chaos Computer Club. Not intended for the general public but not top secret either. If you don't know what this is, you should probably not go there.", 
+                                "description": "The \"We Fix the Net\" assembly\" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year.", 
                                 "persons": [
                                     {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Unicorn", 
-                                        "full_public_name": "Unicorn", 
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Grothoff", 
+                                        "full_public_name": "Grothoff", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:SreeTotakura", 
+                                        "full_public_name": "SreeTotakura", 
                                         "id": 0
                                     }
                                 ], 
                                 "links": [
-                                    "http://www.ccc.de", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:CCC_Regiotreffen"
+                                    "https://gnunet.org/wefixthenet", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:WeFixTheNet"
                                 ]
                             }
                         ]
@@ -1168,37 +1532,94 @@
                     "day_start": "2014-12-30T11:30:00+01:00", 
                     "day_end": "2014-12-31T04:00:00+01:00", 
                     "rooms": {
-                        "Hall 13": [
+                        "Hall 14": [
                             {
-                                "id": 107, 
-                                "guid": "f266ff314e04303e0f115df47550d267", 
+                                "id": 112, 
+                                "guid": "4d68a1c3eebd148eef86025f7b55f369", 
                                 "logo": null, 
-                                "date": "2014-12-29T18:00:00+01:00", 
-                                "start": "18,00", 
-                                "duration": "1:00:00", 
-                                "room": "Hall 13", 
+                                "date": "2014-12-29T14:00:00+01:00", 
+                                "start": "14,00", 
+                                "duration": "3:00:00", 
+                                "room": "Hall 14", 
                                 "slug": "", 
-                                "title": "Hillhacks", 
-                                "subtitle": "a documentary", 
+                                "title": "Crying on the bathroom floor for no apparent reason.", 
+                                "subtitle": "", 
                                 "track": "self orgnaized sessions", 
                                 "type": "other", 
-                                "language": "en", 
+                                "language": "de", 
                                 "abstract": "", 
-                                "description": "hillhacks is an event around hacking and making in Dharamshala, India, in the foothills of the Himalaya. It took place for the first time in October 2014: Two Weeks of Workshops with locals and kids, and 4 days of conference with the experts from India, Nepal and all around the world. Next edition will be 23th May till 7th June in 2015. \n\nThis is a documentary movie showing what we've done.", 
+                                "description": "Your psychologist most likely is on vacation, so this is to be a spot to talk about depression, to share your experience.", 
                                 "persons": [
                                     {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Sva", 
-                                        "full_public_name": "Sva", 
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:TD-23017", 
+                                        "full_public_name": "TD-23017", 
                                         "id": 0
                                     }
                                 ], 
                                 "links": [
-                                    "http://hillhacks.in/", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:Hillhacks:_hacking_and_making_in_the_himalaya:_the_movie"
+                                    "//events.ccc.de/congress/2014/wiki/Session:Crying_on_the_bathroom_floor_for_no_apparent_reason."
                                 ]
                             }, 
                             {
-                                "id": 111, 
+                                "id": 157, 
+                                "guid": "382660e6999bbfd17d062cd9694f5779", 
+                                "logo": null, 
+                                "date": "2014-12-29T19:00:00+01:00", 
+                                "start": "19,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall 14", 
+                                "slug": "", 
+                                "title": "Verbesserung der Zusammenarbeit gegen Massen\u00fcberwachung - Improving inter-organizational work on mass surveillance", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Christian", 
+                                        "full_public_name": "Christian", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Verbesserung_der_Zusammenarbeit_gegen_Massen%C3%BCberwachung_-_Improving_inter-organizational_work_on_mass_surveillance"
+                                ]
+                            }
+                        ], 
+                        "Hall 13": [
+                            {
+                                "id": 164, 
+                                "guid": "aaa3ea63dcf2fde46ee5ac6e88229418", 
+                                "logo": null, 
+                                "date": "2014-12-29T15:00:00+01:00", 
+                                "start": "15,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall 13", 
+                                "slug": "", 
+                                "title": "DO! NOT! TRACK!", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Einstellung des Browsers Firefox, um die Datenspur beim Surfen zu reduzieren. Massnahmen gegen kommerzielle \u00dcberwachung. \n----\nSetup for the browser Firefox to reduce the datatrace during surfing the web. Measures against commercial surveillance.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Undead-engineer", 
+                                        "full_public_name": "Undead-engineer", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.privacymachine.eu/wiki/de/dataseal.html", 
+                                    "https://cryptoparty.at/_media/graz:oeh2014:4_surfing.pdf", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:DO!_NOT!_TRACK!"
+                                ]
+                            }, 
+                            {
+                                "id": 115, 
                                 "guid": "67191ca9c98b7b6ce98926fb1c499a56", 
                                 "logo": null, 
                                 "date": "2014-12-29T19:00:00+01:00", 
@@ -1226,7 +1647,64 @@
                                 ]
                             }, 
                             {
-                                "id": 132, 
+                                "id": 111, 
+                                "guid": "f266ff314e04303e0f115df47550d267", 
+                                "logo": null, 
+                                "date": "2014-12-29T18:00:00+01:00", 
+                                "start": "18,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall 13", 
+                                "slug": "", 
+                                "title": "Hillhacks", 
+                                "subtitle": "a documentary", 
+                                "track": "self orgnaized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "hillhacks is an event around hacking and making in Dharamshala, India, in the foothills of the Himalaya. It took place for the first time in October 2014: Two Weeks of Workshops with locals and kids, and 4 days of conference with the experts from India, Nepal and all around the world. Next edition will be 23th May till 7th June in 2015. \n\nThis is a documentary movie showing what we've done.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Sva", 
+                                        "full_public_name": "Sva", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "http://hillhacks.in/", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Hillhacks:_hacking_and_making_in_the_himalaya:_the_movie"
+                                ]
+                            }, 
+                            {
+                                "id": 156, 
+                                "guid": "3d78713af53ded19ddc1485889e30ddc", 
+                                "logo": null, 
+                                "date": "2014-12-29T12:00:00+01:00", 
+                                "start": "12,00", 
+                                "duration": "0:30:00", 
+                                "room": "Hall 13", 
+                                "slug": "", 
+                                "title": "Morning Tea with RIPE NCC", 
+                                "subtitle": "Monday Morning: (Day 3) Internet Governance \n\nRIPE NCC is participating in \"IANA transition\" process, the hottest Internet Governance topic this & next year. What's new? What's your input? \n\nPreviously on this topic: https://wiki.techinc.nl/index.php/Internet_Governance_and_hackers", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "3 mornings about RIPE / NCC topics: RIPE Atlas, Internet Governance and IPv4 Hijacks. 11AM, Room 13, Tea!!!", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Becha", 
+                                        "full_public_name": "Becha", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "http://ripe.net", 
+                                    "http://atlas.ripe.net", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Morning_Tea_with_RIPE_NCC"
+                                ]
+                            }, 
+                            {
+                                "id": 145, 
                                 "guid": "5114c48a5cdd285162064d493885299a", 
                                 "logo": null, 
                                 "date": "2014-12-29T20:45:00+01:00", 
@@ -1258,7 +1736,7 @@
                                 ]
                             }, 
                             {
-                                "id": 136, 
+                                "id": 149, 
                                 "guid": "3285cb5784d69bdddb9665aba4eab70b", 
                                 "logo": null, 
                                 "date": "2014-12-29T22:00:00+01:00", 
@@ -1286,243 +1764,63 @@
                                 ]
                             }, 
                             {
-                                "id": 141, 
-                                "guid": "3d78713af53ded19ddc1485889e30ddc", 
+                                "id": 100, 
+                                "guid": "f996d4e847d0c30dd95bb84c67ad8c6c", 
                                 "logo": null, 
-                                "date": "2014-12-29T12:00:00+01:00", 
-                                "start": "12,00", 
-                                "duration": "0:30:00", 
+                                "date": "2014-12-29T13:00:00+01:00", 
+                                "start": "13,00", 
+                                "duration": "1:00:00", 
                                 "room": "Hall 13", 
                                 "slug": "", 
-                                "title": "Morning Tea with RIPE NCC", 
-                                "subtitle": "Monday Morning: (Day 3) Internet Governance \n\nRIPE NCC is participating in \"IANA transition\" process, the hottest Internet Governance topic this & next year. What's new? What's your input? \n\nPreviously on this topic: https://wiki.techinc.nl/index.php/Internet_Governance_and_hackers", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "3 mornings about RIPE / NCC topics: RIPE Atlas, Internet Governance and IPv4 Hijacks. 11AM, Room 13, Tea!!!", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Becha", 
-                                        "full_public_name": "Becha", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "http://ripe.net", 
-                                    "http://atlas.ripe.net", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:Morning_Tea_with_RIPE_NCC"
-                                ]
-                            }, 
-                            {
-                                "id": 148, 
-                                "guid": "aaa3ea63dcf2fde46ee5ac6e88229418", 
-                                "logo": null, 
-                                "date": "2014-12-29T15:00:00+01:00", 
-                                "start": "15,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall 13", 
-                                "slug": "", 
-                                "title": "DO! NOT! TRACK!", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Einstellung des Browsers Firefox, um die Datenspur beim Surfen zu reduzieren. Massnahmen gegen kommerzielle \u00dcberwachung. \n----\nSetup for the browser Firefox to reduce the datatrace during surfing the web. Measures against commercial surveillance.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Undead-engineer", 
-                                        "full_public_name": "Undead-engineer", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.privacymachine.eu/wiki/de/dataseal.html", 
-                                    "https://cryptoparty.at/_media/graz:oeh2014:4_surfing.pdf", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:DO!_NOT!_TRACK!"
-                                ]
-                            }
-                        ], 
-                        "Hall 14": [
-                            {
-                                "id": 108, 
-                                "guid": "4d68a1c3eebd148eef86025f7b55f369", 
-                                "logo": null, 
-                                "date": "2014-12-29T14:00:00+01:00", 
-                                "start": "14,00", 
-                                "duration": "3:00:00", 
-                                "room": "Hall 14", 
-                                "slug": "", 
-                                "title": "Crying on the bathroom floor for no apparent reason.", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "other", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Your psychologist most likely is on vacation, so this is to be a spot to talk about depression, to share your experience.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:TD-23017", 
-                                        "full_public_name": "TD-23017", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "//events.ccc.de/congress/2014/wiki/Session:Crying_on_the_bathroom_floor_for_no_apparent_reason."
-                                ]
-                            }, 
-                            {
-                                "id": 142, 
-                                "guid": "382660e6999bbfd17d062cd9694f5779", 
-                                "logo": null, 
-                                "date": "2014-12-29T19:00:00+01:00", 
-                                "start": "19,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall 14", 
-                                "slug": "", 
-                                "title": "Verbesserung der Zusammenarbeit gegen Massen\u00fcberwachung - Improving inter-organizational work on mass surveillance", 
+                                "title": "U.S. and International Anti-Surveillance Activism", 
                                 "subtitle": "", 
                                 "track": "self orgnaized sessions", 
                                 "type": "discussion", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Christian", 
-                                        "full_public_name": "Christian", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "//events.ccc.de/congress/2014/wiki/Session:Verbesserung_der_Zusammenarbeit_gegen_Massen%C3%BCberwachung_-_Improving_inter-organizational_work_on_mass_surveillance"
-                                ]
-                            }
-                        ], 
-                        "Hall 15": [
-                            {
-                                "id": 123, 
-                                "guid": "59793dc4c635ba467b4871e54d95655a", 
-                                "logo": null, 
-                                "date": "2014-12-29T15:00:00+01:00", 
-                                "start": "15,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall 15", 
-                                "slug": "", 
-                                "title": "Mitgliederversammlung F\u00f6rderverein Gentoo e.V.", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Mitgliederversammlung des F\u00f6rderverein Gentoo e.V.", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Sping", 
-                                        "full_public_name": "Sping", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.gentoo-ev.org/", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:Mitgliederversammlung_F%C3%B6rderverein_Gentoo_e.V."
-                                ]
-                            }
-                        ], 
-                        "Hall A": [
-                            {
-                                "id": 131, 
-                                "guid": "a8ba683b3395121478ee50e671c79344", 
-                                "logo": null, 
-                                "date": "2014-12-29T17:00:00+01:00", 
-                                "start": "17,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall A", 
-                                "slug": "", 
-                                "title": "How to throw a CryptoParty", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "You attended the \"How to survive 31c3\" CryptoParty and now want to organize your own? You know how to crypto but not to party? You know how to party but not to crypto?\n\nLearn to teach. Teach to learn.", 
+                                "description": "Discussion about how anti-surveillance activists in the US and Europe can share knowledge and work together.", 
                                 "persons": [
                                     {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Mdik", 
-                                        "full_public_name": "Mdik", 
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Ontological", 
+                                        "full_public_name": "Ontological", 
                                         "id": 0
                                     }
                                 ], 
                                 "links": [
-                                    "https://cryptoparty.in/31c3", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:How_to_throw_a_CryptoParty"
-                                ]
-                            }, 
-                            {
-                                "id": 137, 
-                                "guid": "cd9c380649dd5e2b5947a66fa5982e6d", 
-                                "logo": null, 
-                                "date": "2014-12-29T21:00:00+01:00", 
-                                "start": "21,00", 
-                                "duration": "2:00:00", 
-                                "room": "Hall A", 
-                                "slug": "", 
-                                "title": "SBH", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Die Schwarzbeutelherausforderung.\n\nEin Lockpicking-Geschicklichkeits-Spiel.\n\n6 Teams von 1-3 Leuten bekommen einen \"schwarzen Beutel\" mit Werkzeugen gestellt, und brechen mit hilfe dieser unter Zeitdruck in ein simuliertes Zimmer ein. Dort m\u00fcssen verschiedene Informationen gesammelt, und weitere Aufgaben erledigt werden, und das Zimmer vor Ablauf der Zeit wieder ordentlich verlassen werden.\n\nDas schnellste Team mit den meisten gel\u00f6sten Aufgaben gewinnt.\n\nNur leichte Vorkenntnisse n\u00f6tig.\n\nNoch werden Teams gesucht, Voranmeldung per E-Mail an &lt;sec@42.org&gt;", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Sec", 
-                                        "full_public_name": "Sec", 
-                                        "id": 0
-                                    }, 
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:RFguy", 
-                                        "full_public_name": "RFguy", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "//events.ccc.de/congress/2014/wiki/Session:SBH"
-                                ]
-                            }, 
-                            {
-                                "id": 150, 
-                                "guid": "07e964e9d3b8b5d7d5c3d92600569946", 
-                                "logo": null, 
-                                "date": "2014-12-29T11:30:00+01:00", 
-                                "start": "11,30", 
-                                "duration": "0:50:00", 
-                                "room": "Hall A", 
-                                "slug": "", 
-                                "title": "SIP und so", 
-                                "subtitle": "Talk & Discussion", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Wir haben uns daran gew\u00f6hnt, dass wir mit unseren Handys jederzeit und \u00fcberall erreichbar sind.<br />\nLeider geben wir daf\u00fcr auch jederzeit preis, wo wir uns gerade aufhalten.<br />\nIch zeige mehrere Ans\u00e4tze, mit der jeder diese Kopplung zwischen Mobilkommunikation und Ortung aufbrechen kann.<br />", 
-                                "persons": [
-                                    {
-                                        "url": "//events.ccc.de/congress/2014/wiki/User:Musevg", 
-                                        "full_public_name": "Musevg", 
-                                        "id": 0
-                                    }
-                                ], 
-                                "links": [
-                                    "http://www.no-spy.org", 
-                                    "//events.ccc.de/congress/2014/wiki/Session:SIP_und_so:_Mobil_telefonieren_ohne_trackbar_zu_sein"
+                                    "//events.ccc.de/congress/2014/wiki/Session:U.S._and_International_Anti-Surveillance_Activism:_How_we_can_work_together,_and_what_obstacles_we_face"
                                 ]
                             }
                         ], 
                         "Hall B": [
                             {
-                                "id": 133, 
+                                "id": 152, 
+                                "guid": "ffe19b9b452d93d9973125bc8bc34944", 
+                                "logo": null, 
+                                "date": "2014-12-29T18:00:00+01:00", 
+                                "start": "18,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "EU Copyright Reform", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Workshop to follow the \"Correcting copywrongs: European copyright reform is finally on the horizon\" session: How can YOU influence the upcoming reform?", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:C3o", 
+                                        "full_public_name": "C3o", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:EU_Copyright_Reform"
+                                ]
+                            }, 
+                            {
+                                "id": 146, 
                                 "guid": "1b18c3362fe5e091353b5a933471d9d9", 
                                 "logo": null, 
                                 "date": "2014-12-29T16:00:00+01:00", 
@@ -1557,11 +1855,212 @@
                                 "links": [
                                     "//events.ccc.de/congress/2014/wiki/Session:Framing_Data_Retention"
                                 ]
+                            }, 
+                            {
+                                "id": 132, 
+                                "guid": "3d866031777da8a41bb8a3666f46dc01", 
+                                "logo": null, 
+                                "date": "2014-12-29T20:30:00+01:00", 
+                                "start": "20,30", 
+                                "duration": "2:00:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Whisky", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "This is the fourth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Blackspear", 
+                                        "full_public_name": "Blackspear", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Whisky"
+                                ]
+                            }
+                        ], 
+                        "Hall A": [
+                            {
+                                "id": 155, 
+                                "guid": "ef7e72e025eb87bb268675efcf16328f", 
+                                "logo": null, 
+                                "date": "2014-12-29T14:00:00+01:00", 
+                                "start": "14,00", 
+                                "duration": "1:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting day 3", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 118, 
+                                "guid": "08c458711552066e86644809cfd40d7e", 
+                                "logo": null, 
+                                "date": "2014-12-29T20:45:00+01:00", 
+                                "start": "20,45", 
+                                "duration": "0:30:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angel meeting day 3", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Jz", 
+                                        "full_public_name": "Jz", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 143, 
+                                "guid": "a8ba683b3395121478ee50e671c79344", 
+                                "logo": null, 
+                                "date": "2014-12-29T17:00:00+01:00", 
+                                "start": "17,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "How to throw a CryptoParty", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "You attended the \"How to survive 31c3\" CryptoParty and now want to organize your own? You know how to crypto but not to party? You know how to party but not to crypto?\n\nLearn to teach. Teach to learn.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Mdik", 
+                                        "full_public_name": "Mdik", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://cryptoparty.in/31c3", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:How_to_throw_a_CryptoParty"
+                                ]
+                            }, 
+                            {
+                                "id": 141, 
+                                "guid": "95f7e9a1285ba34ad7556a84499e81b9", 
+                                "logo": null, 
+                                "date": "2014-12-29T21:30:00+01:00", 
+                                "start": "21,30", 
+                                "duration": "3:00:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "SBH", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Die Schwarzbeutelherausforderung.\n\nEin Lockpicking-Geschicklichkeits-Spiel.\n\n6 Teams von 1-3 Leuten bekommen einen \"schwarzen Beutel\" mit Werkzeugen gestellt, und brechen mit hilfe dieser unter Zeitdruck in ein simuliertes Zimmer ein. Dort m\u00fcssen verschiedene Informationen gesammelt, und weitere Aufgaben erledigt werden, und das Zimmer vor Ablauf der Zeit wieder ordentlich verlassen werden.\n\nDas schnellste Team mit den meisten gel\u00f6sten Aufgaben gewinnt.\n\nNur leichte Vorkenntnisse n\u00f6tig.\n\nNoch werden Teams gesucht, Voranmeldung per E-Mail an &lt;sec@42.org&gt;", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Sec", 
+                                        "full_public_name": "Sec", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:RFguy", 
+                                        "full_public_name": "RFguy", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "//events.ccc.de/congress/2014/wiki/Session:SBH"
+                                ]
+                            }, 
+                            {
+                                "id": 167, 
+                                "guid": "07e964e9d3b8b5d7d5c3d92600569946", 
+                                "logo": null, 
+                                "date": "2014-12-29T11:30:00+01:00", 
+                                "start": "11,30", 
+                                "duration": "0:50:00", 
+                                "room": "Hall A", 
+                                "slug": "", 
+                                "title": "SIP und so", 
+                                "subtitle": "Talk & Discussion", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wir haben uns daran gew\u00f6hnt, dass wir mit unseren Handys jederzeit und \u00fcberall erreichbar sind.<br />\nLeider geben wir daf\u00fcr auch jederzeit preis, wo wir uns gerade aufhalten.<br />\nIch zeige mehrere Ans\u00e4tze, mit der jeder diese Kopplung zwischen Mobilkommunikation und Ortung aufbrechen kann.<br />", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Musevg", 
+                                        "full_public_name": "Musevg", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.no-spy.org", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:SIP_und_so:_Mobil_telefonieren_ohne_trackbar_zu_sein"
+                                ]
+                            }
+                        ], 
+                        "Hall 15": [
+                            {
+                                "id": 129, 
+                                "guid": "59793dc4c635ba467b4871e54d95655a", 
+                                "logo": null, 
+                                "date": "2014-12-29T15:00:00+01:00", 
+                                "start": "15,00", 
+                                "duration": "2:00:00", 
+                                "room": "Hall 15", 
+                                "slug": "", 
+                                "title": "Mitgliederversammlung F\u00f6rderverein Gentoo e.V.", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Mitgliederversammlung des F\u00f6rderverein Gentoo e.V.", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Sping", 
+                                        "full_public_name": "Sping", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.gentoo-ev.org/", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Mitgliederversammlung_F%C3%B6rderverein_Gentoo_e.V."
+                                ]
                             }
                         ], 
                         "Hall C": [
                             {
-                                "id": 147, 
+                                "id": 163, 
                                 "guid": "a853183c4e3b6a3a1b7efc7870e4a29d", 
                                 "logo": null, 
                                 "date": "2014-12-29T13:00:00+01:00", 
@@ -1590,6 +2089,34 @@
                                 ], 
                                 "links": [
                                     "//events.ccc.de/congress/2014/wiki/Session:SDR_for_noobs"
+                                ]
+                            }, 
+                            {
+                                "id": 151, 
+                                "guid": "b6d39d05895a8291a117cc855a246e9d", 
+                                "logo": null, 
+                                "date": "2014-12-29T16:30:00+01:00", 
+                                "start": "16,30", 
+                                "duration": "2:00:00", 
+                                "room": "Hall C", 
+                                "slug": "", 
+                                "title": "Tamagotchi Hackers Unite!", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Didn't get enough Tamagotchi Hacking at 31c3? Here's your chance to get your fix!", 
+                                "persons": [
+                                    {
+                                        "url": "//events.ccc.de/congress/2014/wiki/User:Natashenka", 
+                                        "full_public_name": "Natashenka", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.natashenka.ca", 
+                                    "//events.ccc.de/congress/2014/wiki/Session:Tamagotchi_Hackers_Unite!"
                                 ]
                             }
                         ]

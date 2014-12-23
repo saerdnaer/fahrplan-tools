@@ -7,6 +7,7 @@ import dateutil.parser
 from datetime import datetime
 from datetime import timedelta
 import pytz
+import os.path
 
 days = []
 de_tz = pytz.timezone('Europe/Amsterdam')
@@ -54,8 +55,10 @@ def main():
         verify=False #'cacert.pem'
     )
     
-    sessions = sessions_r.json()['results']
-    events = events_r.json()['results']
+    #sessions = sessions_r.json()['results']
+    sessions = json.JSONDecoder(object_pairs_hook=OrderedDict).decode(sessions_r.text)['results']
+    #events = events_r.json()['results']
+    events = json.JSONDecoder(object_pairs_hook=OrderedDict).decode(events_r.text)['results']
     full_schedule = json.JSONDecoder(object_pairs_hook=OrderedDict).decode(schedule_r.text)
     
     workshop_schedule = copy_base_structure(full_schedule, 5);
@@ -125,11 +128,7 @@ def main():
             '''
             
             day = int(day_s)
-            wsdr = workshop_schedule["schedule"]["conference"]["days"][day]["rooms"]
-            if room not in wsdr:
-                wsdr[room] = list();
-            
-            wsdr[room].append(OrderedDict([
+            event = OrderedDict([
                 ('id', get_id(guid)),
                 ('guid', guid),
                 ('logo', None),
@@ -152,18 +151,30 @@ def main():
                     'url': p['fullurl']
                 } for p in session['Is organized by'] ]),
                 ('links', session['Has website'] + [session['fullurl']])             
-            ]))
+            ])
+            
+            wsdr = workshop_schedule["schedule"]["conference"]["days"][day]["rooms"]
+            if room not in wsdr:
+                wsdr[room] = list();
+            wsdr[room].append(event);
+            
+            fsdr = full_schedule["schedule"]["conference"]["days"][day]["rooms"]
+            if room not in fsdr:
+                fsdr[room] = list();
+            fsdr[room].append(event);
             
         
     #print json.dumps(workshop_schedule, indent=2)
     
-    fp = open("sessions_complete.json", "w")
-    json.dump(out, fp, indent=4)
-    fp.close()
+    with open("sessions_complete.json", "w") as fp:
+        json.dump(out, fp, indent=4)
+
     
-    fp = open("workshops.schedule.json", "w")
-    json.dump(workshop_schedule, fp, indent=4)
-    fp.close()
+    with open("workshops.schedule.json", "w") as fp:
+        json.dump(workshop_schedule, fp, indent=4)
+        
+    with open("everything.schedule.json", "w") as fp:
+        json.dump(full_schedule, fp, indent=4)
 
     
     print 'end'
@@ -177,6 +188,18 @@ def get_day(start_time):
 
 sos_ids = dict()
 next_id = 100
+
+if os.path.isfile("_sos_ids.json"):
+    with open("_sos_ids.json", "r") as fp:
+        #sos_ids = json.load(fp) 
+        # maintain order from file
+        temp = fp.read()
+        sos_ids = json.JSONDecoder(object_pairs_hook=OrderedDict).decode(temp)
+    
+  
+    
+    
+    next_id = max(sos_ids.itervalues())+1
 
 def get_id(guid):
     global sos_ids, next_id
@@ -227,3 +250,8 @@ if __name__ == '__main__':
     main()
     
 # TODO write sos_ids to disk
+with open("_sos_ids.json", "w") as fp:
+    json.dump(sos_ids, fp, indent=4)
+    
+#os.system("git add *.json")
+#os.system("git commit -m 'updates from " + str(datetime.now()) +  "'")
