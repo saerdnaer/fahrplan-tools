@@ -128,7 +128,7 @@ def main():
             '''
             
             day = int(day_s)
-            event = OrderedDict([
+            event_n = OrderedDict([
                 ('id', get_id(guid)),
                 ('guid', guid),
                 ('logo', None),
@@ -156,12 +156,12 @@ def main():
             wsdr = workshop_schedule["schedule"]["conference"]["days"][day]["rooms"]
             if room not in wsdr:
                 wsdr[room] = list();
-            wsdr[room].append(event);
+            wsdr[room].append(event_n);
             
             fsdr = full_schedule["schedule"]["conference"]["days"][day]["rooms"]
             if room not in fsdr:
                 fsdr[room] = list();
-            fsdr[room].append(event);
+            fsdr[room].append(event_n);
             
         
     #print json.dumps(workshop_schedule, indent=2)
