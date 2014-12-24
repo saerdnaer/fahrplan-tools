@@ -245,6 +245,41 @@ def copy_base_structure_list(subtree, level):
 # &eq=yes
 
 
+# from http://stackoverflow.com/a/10076823
+
+#from lxml import etree as ET
+from xml.etree import cElementTree as ET
+
+def dict_to_etree(d):
+    def _to_etree(d, root):
+        if not d:
+            pass
+        elif isinstance(d, basestring):
+            root.text = d
+        elif isinstance(d, int):
+            root.text = str(d)
+        elif (isinstance(d, dict) or isinstance(d, OrderedDict)):
+            for k,v in d.items():
+                assert isinstance(k, basestring)
+                if k.startswith('#'):
+                    assert k == '#text' and isinstance(v, basestring)
+                    root.text = v
+                elif k.startswith('@'):
+                    assert isinstance(v, basestring)
+                    root.set(k[1:], v)
+                elif isinstance(v, list):
+                    for e in v:
+                        _to_etree(e, ET.SubElement(root, k))
+                else:
+                    _to_etree(v, ET.SubElement(root, k))
+        else: assert d == 'invalid type'
+    #print d
+    assert (isinstance(d, dict) or isinstance(d, OrderedDict)) and len(d) == 1
+    tag, body = next(iter(d.items()))
+    node = ET.Element(tag)
+    _to_etree(body, node)
+    return ET.tostring(node)
+
 
 if __name__ == '__main__':
     main()
