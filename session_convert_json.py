@@ -128,13 +128,15 @@ def main():
             '''
             
             day = int(day_s)
+            duration = event['Has duration'][0];
             event_n = OrderedDict([
                 ('id', get_id(guid)),
                 ('guid', guid),
                 ('logo', None),
                 ('date', start_time.isoformat()),
-                ('start', start_time.strftime('%H,%M')),
-                ('duration', str(timedelta(minutes=event['Has duration'][0])) ),
+                ('start', start_time.strftime('%H:%M')),
+                #('duration', str(timedelta(minutes=event['Has duration'][0])) ),
+                ('duration', '%d:%02d' % divmod(duration, 60) ),
                 ('room', room),
                 ('slug', ''),
                 #('slug', '31c3_-_6561_-_en_-_saal_1_-_201412271100_-_31c3_opening_event_-_erdgeist_-_geraldine_de_bastion',
