@@ -660,6 +660,56 @@
         "fullurl": "//events.ccc.de/congress/2014/wiki/Session:LearnToSolder", 
         "Has end time": []
     }, 
+    "Session:Tor Relay Operators Meetup# bb8c7ac960254118a4c259bbefd6e432": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1419771600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.torservers.net/"
+        ], 
+        "Has description": [
+            "Tor relay operators meetup -- questions about running Tor relays?"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C", 
+                "fullurl": "//events.ccc.de/congress/2014/wiki/Room:Hall_C", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mo", 
+                "fullurl": "//events.ccc.de/congress/2014/wiki/User:Mo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor Relay Operators Meetup"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "//events.ccc.de/congress/2014/wiki/Session:Tor_Relay_Operators_Meetup", 
+        "Has end time": [
+            "1419778800"
+        ]
+    }, 
     "Session:ATtami - bake a cheap DEV board# 99a2748454c1353c468bf8e348f39e0c": {
         "Held in language": [
             "en - English"
@@ -3488,56 +3538,6 @@
         "fullurl": "//events.ccc.de/congress/2014/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1419631200"
-        ]
-    }, 
-    "Session:Tor Relay Operators Meetup# c5460c59137a843c4eb8aadf193a4414": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1419776100"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.torservers.net/"
-        ], 
-        "Has description": [
-            "Tor relay operators meetup -- questions about running Tor relays?"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A", 
-                "fullurl": "//events.ccc.de/congress/2014/wiki/Room:Hall_A", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Mo", 
-                "fullurl": "//events.ccc.de/congress/2014/wiki/User:Mo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Tor Relay Operators Meetup"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "//events.ccc.de/congress/2014/wiki/Session:Tor_Relay_Operators_Meetup", 
-        "Has end time": [
-            "1419783300"
         ]
     }, 
     "Session:Whisky# 3d866031777da8a41bb8a3666f46dc01": {
