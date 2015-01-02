@@ -118,7 +118,7 @@ def main():
         #print json.dumps(combined, indent=4)    
         
         out[event_wiki_name] = combined
-        if workshop_room_session and day_s is not None:
+        if workshop_room_session and day_s is not None and event['Has duration']:
             '''
             if day_s not in schedule:
                 schedule[day_s] = dict()
@@ -128,7 +128,13 @@ def main():
             '''
             
             day = int(day_s)
-            duration = event['Has duration'][0];
+            duration = 0
+            if event['Has duration']:
+                duration = event['Has duration'][0];
+            lang = ''
+            if session['Held in language']:
+                lang = session['Held in language'][0].split(' - ', 1)[0]
+            
             event_n = OrderedDict([
                 ('id', get_id(guid)),
                 ('guid', guid),
@@ -143,8 +149,8 @@ def main():
                 ('title', session['Has title'][0]),
                 ('subtitle', "\n".join(event['Has subtitle']) ),
                 ('track', 'self orgnaized sessions'),
-                ('type', session['Has session type'][0].lower()),
-                ('language', session['Held in language'][0].split(' - ', 1)[0] ),
+                ('type', " ".join(session['Has session type']).lower()),
+                ('language', lang ),
                 ('abstract', ''),
                 ('description', "\n".join(session['Has description']) ),
                 ('persons', [{
@@ -282,6 +288,11 @@ def dict_to_etree(d):
     _to_etree(body, node)
     return ET.tostring(node)
 
+def first(x):
+    if len(x) == 0:
+        return None
+    else:
+        return x[0]
 
 if __name__ == '__main__':
     main()
