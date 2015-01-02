@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<schedule>
+    <version>1.00</version>
+    <conference>
+        <title>31. Chaos Communication Congress – Sendezentrum</title>
+        <start>2014-12-27</start>
+        <end>2014-12-31</end>
+        <daysCount>4</daysCount>
+        <timeslot_duration>00:05</timeslot_duration>
+    </conference>
+    <day index="0" date="2014-12-27" start="2014-12-27T11:00:00+01:00" end="2014-12-28T04:00:00+01:00">
+        <room name="Saal 5">
+            <event id="1000">
+                <guid>1c1bfba9b201c3fa03bf7934fd1bf3fb</guid>
+                <logo/>
+                <date>2014-12-27T14:00:00</date>
+                <start>14:00</start>
+                <duration>1:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Workshop: "Der Einstieg ins Podcasten"</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Daniel Meßner</person>
+                </persons>
+            </event>
+            <event id="1001">
+                <guid>b26b2e231d052401f26c973515d2a833</guid>
+                <logo/>
+                <date>2014-12-27T16:00:00</date>
+                <start>16:00</start>
+                <duration>2:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Workshop: Ultraschall Basiswissen</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Ralf Stockmann</person>
+                </persons>
+            </event>
+            <event id="1002">
+                <guid>7b895f261448a4d316637245e27e1ca0</guid>
+                <logo/>
+                <date>2014-12-27T18:00:00</date>
+                <start>18:00</start>
+                <duration>1:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Troja Alert: Eris - Göttin der Zwietracht</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Stefan Thesing</person>
+                </persons>
+            </event>
+            <event id="1003">
+                <guid>75f262929b2c8b7ca8720031b64d96b3</guid>
+                <logo/>
+                <date>2014-12-27T20:00:00</date>
+                <start>20:00</start>
+                <duration>1:30</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Freak Show: FS147 That Escalatored Quickly</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Tim Pritlove</person>
+                    <person id="0">John-Paul Bader</person>
+                    <person id="0">Ruotger Deecke</person>
+                    <person id="0">Clemens Schrimpe</person>
+                    <person id="0">Denis Ahrens</person>
+                </persons>
+            </event>
+            <event id="1004">
+                <guid>0e3728e512fda21a155f723d9081e46c</guid>
+                <logo/>
+                <date>2014-12-27T22:00:00</date>
+                <start>22:00</start>
+                <duration>1:30</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Community-Event: Sendegate-Treffen</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Das Sendegate</person>
+                </persons>
+            </event>
+        </room>
+    </day>
+    <day index="1" date="2014-12-28" start="2014-12-28T11:30:00+01:00" end="2014-12-29T04:00:00+01:00">
+        <room name="Saal 5">
+            <event id="1005">
+                <guid>19153086e608847486aa21e198db1489</guid>
+                <logo/>
+                <date>2014-12-28T13:00:00</date>
+                <start>13:00</start>
+                <duration>1:30</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Workshop: Podcasten unter Linux? Podcasten unter Linux!</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Johannes Mueller</person>
+                </persons>
+            </event>
+            <event id="1006">
+                <guid>e0743103e34e2b0989475ee1ffaa1e92</guid>
+                <logo/>
+                <date>2014-12-28T15:00:00</date>
+                <start>15:00</start>
+                <duration>1:30</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Workshop: Podlove Publisher</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Tim Pritlove</person>
+                </persons>
+            </event>
+            <event id="1007">
+                <guid>95f56eb6fcb4b5e5b1e5915dfd7c15ae</guid>
+                <logo/>
+                <date>2014-12-28T17:00:00</date>
+                <start>17:00</start>
+                <duration>1:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Staatsbürgerkunde: Martin Fischer, Martin Haase, Constanze Kurz</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0"/>
+                </persons>
+            </event>
+            <event id="1008">
+                <guid>33da7c7af61d37cfd28f30c5059d5384</guid>
+                <logo/>
+                <date>2014-12-28T19:00:00</date>
+                <start>19:00</start>
+                <duration>1:30</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Logbuch Netzpolitik: #31c3-Special </title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Linus Neumann</person>
+                    <person id="0">Tim Pritlove</person>
+                    <person id="0">Andre Meister</person>
+                    <person id="0">Thomas Lohninger</person>
+                </persons>
+            </event>
+            <event id="1009">
+                <guid>2e8e8bc9e5f2273ed4715c54804de920</guid>
+                <logo/>
+                <date>2014-12-28T20:30:00</date>
+                <start>20:30</start>
+                <duration>1:40</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Die Sondersendung: Der Assembly-Marsch</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Claudia Krell</person>
+                    <person id="0">Ralf Stockmann</person>
+                </persons>
+            </event>
+            <event id="1010">
+                <guid>fd62cdf6feffba135ddeb19f66dd0e4e</guid>
+                <logo/>
+                <date>2014-12-28T22:15:00</date>
+                <start>22:15</start>
+                <duration>1:15</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Community-Event: Equipment für den Podcaster von heute</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Das Sendegate</person>
+                </persons>
+            </event>
+        </room>
+    </day>
+    <day index="2" date="2014-12-29" start="2014-12-29T11:30:00+01:00" end="2014-12-30T04:00:00+01:00">
+        <room name="Saal 5">
+            <event id="1011">
+                <guid>37a0f35e3e3ca947c1d1871f567646a7</guid>
+                <logo/>
+                <date>2014-12-29T13:00:00</date>
+                <start>13:00</start>
+                <duration>2:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Workshop: Ultraschall: Die Zukunft</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Ralf Stockmann</person>
+                </persons>
+            </event>
+            <event id="1012">
+                <guid>4d2e4fdebb0c49708c47beb4c775e0fd</guid>
+                <logo/>
+                <date>2014-12-29T15:15:00</date>
+                <start>15:15</start>
+                <duration>0:45</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Workshop: Podlove Templates</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Eric Teubert</person>
+                </persons>
+            </event>
+            <event id="1013">
+                <guid>7c0fd20d0077ef6bd93219c074c24e40</guid>
+                <logo/>
+                <date>2014-12-29T17:00:00</date>
+                <start>17:00</start>
+                <duration>2:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Methodisch inkorrekt!: Die falsche 42</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Nicolas Wöhrl</person>
+                    <person id="0">Reinhard Remfort</person>
+                </persons>
+            </event>
+            <event id="1014">
+                <guid>18ebdcdcff7fe326b606a38f06ab952a</guid>
+                <logo/>
+                <date>2014-12-29T19:00:00</date>
+                <start>19:00</start>
+                <duration>1:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Cocktailpodcast feat. Bildungstrinken: How to hack a High-End Cocktail-Bar</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Robert Krüger</person>
+                    <person id="0">Mathias Bauer</person>
+                    <person id="0">Jörg Meyer </person>
+                </persons>
+            </event>
+            <event id="1015">
+                <guid>aab8ddd7db61a61acc3b00cc6f110ce4</guid>
+                <logo/>
+                <date>2014-12-29T20:00:00</date>
+                <start>20:00</start>
+                <duration>2:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>WRINT: Realitätsabgleich</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Tobias Baier</person>
+                    <person id="0">Holger Klein</person>
+                </persons>
+            </event>
+            <event id="1016">
+                <guid>40d7bb23f86e3e17727f6ba7f1fb9e39</guid>
+                <logo/>
+                <date>2014-12-29T22:00:00</date>
+                <start>22:00</start>
+                <duration>1:59</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Wir müssen Reden: Jahresrückblick</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Michael Seemann</person>
+                    <person id="0">Max von Webel</person>
+                    <person id="0">Michael Kreil</person>
+                </persons>
+            </event>
+        </room>
+    </day>
+    <day index="3" date="2014-12-30" start="2014-12-30T11:30:00+01:00" end="2014-12-31T04:00:00+01:00">
+        <room name="Saal 5">
+            <event id="1017">
+                <guid>3b9b8b0f70ccb6e553d9b51437a094bc</guid>
+                <logo/>
+                <date>2014-12-30T00:00:00</date>
+                <start>00:00</start>
+                <duration>2:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>NSFW: DIE Reunion</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Holger Klein</person>
+                    <person id="0">Tim Pritlove</person>
+                </persons>
+            </event>
+            <event id="1018">
+                <guid>28be7ba5a81b0cf3f869d8256cc657cd</guid>
+                <logo/>
+                <date>2014-12-30T12:00:00</date>
+                <start>12:00</start>
+                <duration>2:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>tbd: tbd</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">tbd</person>
+                </persons>
+            </event>
+            <event id="1019">
+                <guid>69333f9007fb69d0b1d12cc78e2a7fdb</guid>
+                <logo/>
+                <date>2014-12-30T14:00:00</date>
+                <start>14:00</start>
+                <duration>1:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>N00bcore: tbd</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Fiona Krakenbürger</person>
+                </persons>
+            </event>
+            <event id="1020">
+                <guid>a6f80e21b75782ad805fbceb7ca5e734</guid>
+                <logo/>
+                <date>2014-12-30T15:00:00</date>
+                <start>15:00</start>
+                <duration>2:00</duration>
+                <room>Saal 5</room>
+                <slug/>
+                <title>Die Sondersendung: #31C3-Rückblick</title>
+                <subtitle/>
+                <track>Sendezentrum</track>
+                <type>Podcast</type>
+                <language>de</language>
+                <abstract/>
+                <description/>
+                <persons>
+                    <person id="0">Claudia Krell</person>
+                    <person id="0">Tim Pritlove</person>
+                    <person id="0">Ralf Stockmann</person>
+                </persons>
+            </event>
+        </room>
+    </day>
+</schedule>

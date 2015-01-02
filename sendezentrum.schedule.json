@@ -1,0 +1,626 @@
+{
+    "schedule": {
+        "version": "0.92 2014: A Congress Odyssee", 
+        "conference": {
+            "title": "31. Chaos Communication Congress", 
+            "start": "2014-12-27", 
+            "end": "2014-12-31", 
+            "daysCount": 4, 
+            "timeslot_duration": "00:05", 
+            "days": [
+                {
+                    "index": 0, 
+                    "date": "2014-12-27", 
+                    "day_start": "2014-12-27T11:00:00+01:00", 
+                    "day_end": "2014-12-28T04:00:00+01:00", 
+                    "rooms": {
+                        "Saal 5": [
+                            {
+                                "id": 1000, 
+                                "guid": "1c1bfba9b201c3fa03bf7934fd1bf3fb", 
+                                "logo": null, 
+                                "date": "2014-12-27T14:00:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Workshop: \"Der Einstieg ins Podcasten\"", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Daniel Me\u00dfner", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1001, 
+                                "guid": "b26b2e231d052401f26c973515d2a833", 
+                                "logo": null, 
+                                "date": "2014-12-27T16:00:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Workshop: Ultraschall Basiswissen", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Ralf Stockmann", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1002, 
+                                "guid": "7b895f261448a4d316637245e27e1ca0", 
+                                "logo": null, 
+                                "date": "2014-12-27T18:00:00", 
+                                "start": "18:00", 
+                                "duration": "1:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Troja Alert: Eris - G\u00f6ttin der Zwietracht", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Stefan Thesing", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1003, 
+                                "guid": "75f262929b2c8b7ca8720031b64d96b3", 
+                                "logo": null, 
+                                "date": "2014-12-27T20:00:00", 
+                                "start": "20:00", 
+                                "duration": "1:30", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Freak Show: FS147 That Escalatored Quickly", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Tim Pritlove", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " John-Paul Bader", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Ruotger Deecke", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Clemens Schrimpe", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Denis Ahrens", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1004, 
+                                "guid": "0e3728e512fda21a155f723d9081e46c", 
+                                "logo": null, 
+                                "date": "2014-12-27T22:00:00", 
+                                "start": "22:00", 
+                                "duration": "1:30", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Community-Event: Sendegate-Treffen", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Das Sendegate", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "index": 1, 
+                    "date": "2014-12-28", 
+                    "day_start": "2014-12-28T11:30:00+01:00", 
+                    "day_end": "2014-12-29T04:00:00+01:00", 
+                    "rooms": {
+                        "Saal 5": [
+                            {
+                                "id": 1005, 
+                                "guid": "19153086e608847486aa21e198db1489", 
+                                "logo": null, 
+                                "date": "2014-12-28T13:00:00", 
+                                "start": "13:00", 
+                                "duration": "1:30", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Workshop: Podcasten unter Linux? Podcasten unter Linux!", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Johannes Mueller", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1006, 
+                                "guid": "e0743103e34e2b0989475ee1ffaa1e92", 
+                                "logo": null, 
+                                "date": "2014-12-28T15:00:00", 
+                                "start": "15:00", 
+                                "duration": "1:30", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Workshop: Podlove Publisher", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Tim Pritlove", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1007, 
+                                "guid": "95f56eb6fcb4b5e5b1e5915dfd7c15ae", 
+                                "logo": null, 
+                                "date": "2014-12-28T17:00:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Staatsb\u00fcrgerkunde: Martin Fischer, Martin Haase, Constanze Kurz", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1008, 
+                                "guid": "33da7c7af61d37cfd28f30c5059d5384", 
+                                "logo": null, 
+                                "date": "2014-12-28T19:00:00", 
+                                "start": "19:00", 
+                                "duration": "1:30", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Logbuch Netzpolitik: #31c3-Special ", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Linus Neumann", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Tim Pritlove", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Andre Meister", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Thomas Lohninger", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1009, 
+                                "guid": "2e8e8bc9e5f2273ed4715c54804de920", 
+                                "logo": null, 
+                                "date": "2014-12-28T20:30:00", 
+                                "start": "20:30", 
+                                "duration": "1:40", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Die Sondersendung: Der Assembly-Marsch", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Claudia Krell", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Ralf Stockmann", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1010, 
+                                "guid": "fd62cdf6feffba135ddeb19f66dd0e4e", 
+                                "logo": null, 
+                                "date": "2014-12-28T22:15:00", 
+                                "start": "22:15", 
+                                "duration": "1:15", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Community-Event: Equipment f\u00fcr den Podcaster von heute", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Das Sendegate", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "index": 2, 
+                    "date": "2014-12-29", 
+                    "day_start": "2014-12-29T11:30:00+01:00", 
+                    "day_end": "2014-12-30T04:00:00+01:00", 
+                    "rooms": {
+                        "Saal 5": [
+                            {
+                                "id": 1011, 
+                                "guid": "37a0f35e3e3ca947c1d1871f567646a7", 
+                                "logo": null, 
+                                "date": "2014-12-29T13:00:00", 
+                                "start": "13:00", 
+                                "duration": "2:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Workshop: Ultraschall: Die Zukunft", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Ralf Stockmann", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1012, 
+                                "guid": "4d2e4fdebb0c49708c47beb4c775e0fd", 
+                                "logo": null, 
+                                "date": "2014-12-29T15:15:00", 
+                                "start": "15:15", 
+                                "duration": "0:45", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Workshop: Podlove Templates", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Eric Teubert", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1013, 
+                                "guid": "7c0fd20d0077ef6bd93219c074c24e40", 
+                                "logo": null, 
+                                "date": "2014-12-29T17:00:00", 
+                                "start": "17:00", 
+                                "duration": "2:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Methodisch inkorrekt!: Die falsche 42", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Nicolas W\u00f6hrl", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Reinhard Remfort", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1014, 
+                                "guid": "18ebdcdcff7fe326b606a38f06ab952a", 
+                                "logo": null, 
+                                "date": "2014-12-29T19:00:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Cocktailpodcast feat. Bildungstrinken: How to hack a High-End Cocktail-Bar", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Robert Kr\u00fcger", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Mathias Bauer", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " J\u00f6rg Meyer ", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1015, 
+                                "guid": "aab8ddd7db61a61acc3b00cc6f110ce4", 
+                                "logo": null, 
+                                "date": "2014-12-29T20:00:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "WRINT: Realit\u00e4tsabgleich", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Tobias Baier", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Holger Klein", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1016, 
+                                "guid": "40d7bb23f86e3e17727f6ba7f1fb9e39", 
+                                "logo": null, 
+                                "date": "2014-12-29T22:00:00", 
+                                "start": "22:00", 
+                                "duration": "1:59", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Wir m\u00fcssen Reden: Jahresr\u00fcckblick", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Michael Seemann", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Max von Webel", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Michael Kreil", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "index": 3, 
+                    "date": "2014-12-30", 
+                    "day_start": "2014-12-30T11:30:00+01:00", 
+                    "day_end": "2014-12-31T04:00:00+01:00", 
+                    "rooms": {
+                        "Saal 5": [
+                            {
+                                "id": 1017, 
+                                "guid": "3b9b8b0f70ccb6e553d9b51437a094bc", 
+                                "logo": null, 
+                                "date": "2014-12-30T00:00:00", 
+                                "start": "00:00", 
+                                "duration": "2:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "NSFW: DIE Reunion", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Holger Klein", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Tim Pritlove", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1018, 
+                                "guid": "28be7ba5a81b0cf3f869d8256cc657cd", 
+                                "logo": null, 
+                                "date": "2014-12-30T12:00:00", 
+                                "start": "12:00", 
+                                "duration": "2:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "tbd: tbd", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "tbd", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1019, 
+                                "guid": "69333f9007fb69d0b1d12cc78e2a7fdb", 
+                                "logo": null, 
+                                "date": "2014-12-30T14:00:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "N00bcore: tbd", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Fiona Krakenb\u00fcrger", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }, 
+                            {
+                                "id": 1020, 
+                                "guid": "a6f80e21b75782ad805fbceb7ca5e734", 
+                                "logo": null, 
+                                "date": "2014-12-30T15:00:00", 
+                                "start": "15:00", 
+                                "duration": "2:00", 
+                                "room": "Saal 5", 
+                                "slug": "", 
+                                "title": "Die Sondersendung: #31C3-R\u00fcckblick", 
+                                "subtitle": "", 
+                                "track": "Sendezentrum", 
+                                "type": "Podcast", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "#text": "Claudia Krell", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Tim Pritlove", 
+                                        "id": 0
+                                    }, 
+                                    {
+                                        "#text": " Ralf Stockmann", 
+                                        "id": 0
+                                    }
+                                ], 
+                                "links": []
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
