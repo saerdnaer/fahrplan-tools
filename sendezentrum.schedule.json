@@ -33,8 +33,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Daniel Me\u00dfner", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Daniel Me\u00dfner"
                                     }
                                 ], 
                                 "links": []
@@ -57,8 +57,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Ralf Stockmann", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Ralf Stockmann"
                                     }
                                 ], 
                                 "links": []
@@ -81,8 +81,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Stefan Thesing", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Stefan Thesing"
                                     }
                                 ], 
                                 "links": []
@@ -105,24 +105,24 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Tim Pritlove", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Tim Pritlove"
                                     }, 
                                     {
-                                        "#text": " John-Paul Bader", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "John-Paul Bader"
                                     }, 
                                     {
-                                        "#text": " Ruotger Deecke", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Ruotger Deecke"
                                     }, 
                                     {
-                                        "#text": " Clemens Schrimpe", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Clemens Schrimpe"
                                     }, 
                                     {
-                                        "#text": " Denis Ahrens", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Denis Ahrens"
                                     }
                                 ], 
                                 "links": []
@@ -145,8 +145,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Das Sendegate", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Das Sendegate"
                                     }
                                 ], 
                                 "links": []
@@ -179,8 +179,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Johannes Mueller", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Johannes Mueller"
                                     }
                                 ], 
                                 "links": []
@@ -203,8 +203,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Tim Pritlove", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Tim Pritlove"
                                     }
                                 ], 
                                 "links": []
@@ -227,8 +227,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": ""
                                     }
                                 ], 
                                 "links": []
@@ -242,7 +242,7 @@
                                 "duration": "1:30", 
                                 "room": "Saal 5", 
                                 "slug": "", 
-                                "title": "Logbuch Netzpolitik: #31c3-Special ", 
+                                "title": "Logbuch Netzpolitik: #31c3-Special", 
                                 "subtitle": "", 
                                 "track": "Sendezentrum", 
                                 "type": "Podcast", 
@@ -251,20 +251,20 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Linus Neumann", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Linus Neumann"
                                     }, 
                                     {
-                                        "#text": " Tim Pritlove", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Tim Pritlove"
                                     }, 
                                     {
-                                        "#text": " Andre Meister", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Andre Meister"
                                     }, 
                                     {
-                                        "#text": " Thomas Lohninger", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Thomas Lohninger"
                                     }
                                 ], 
                                 "links": []
@@ -287,12 +287,12 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Claudia Krell", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Claudia Krell"
                                     }, 
                                     {
-                                        "#text": " Ralf Stockmann", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Ralf Stockmann"
                                     }
                                 ], 
                                 "links": []
@@ -315,8 +315,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Das Sendegate", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Das Sendegate"
                                     }
                                 ], 
                                 "links": []
@@ -349,8 +349,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Ralf Stockmann", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Ralf Stockmann"
                                     }
                                 ], 
                                 "links": []
@@ -373,8 +373,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Eric Teubert", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Eric Teubert"
                                     }
                                 ], 
                                 "links": []
@@ -397,12 +397,12 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Nicolas W\u00f6hrl", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Nicolas W\u00f6hrl"
                                     }, 
                                     {
-                                        "#text": " Reinhard Remfort", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Reinhard Remfort"
                                     }
                                 ], 
                                 "links": []
@@ -425,16 +425,16 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Robert Kr\u00fcger", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Robert Kr\u00fcger"
                                     }, 
                                     {
-                                        "#text": " Mathias Bauer", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Mathias Bauer"
                                     }, 
                                     {
-                                        "#text": " J\u00f6rg Meyer ", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "J\u00f6rg Meyer"
                                     }
                                 ], 
                                 "links": []
@@ -457,12 +457,12 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Tobias Baier", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Tobias Baier"
                                     }, 
                                     {
-                                        "#text": " Holger Klein", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Holger Klein"
                                     }
                                 ], 
                                 "links": []
@@ -485,16 +485,16 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Michael Seemann", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Michael Seemann"
                                     }, 
                                     {
-                                        "#text": " Max von Webel", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Max von Webel"
                                     }, 
                                     {
-                                        "#text": " Michael Kreil", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Michael Kreil"
                                     }
                                 ], 
                                 "links": []
@@ -527,12 +527,12 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Holger Klein", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Holger Klein"
                                     }, 
                                     {
-                                        "#text": " Tim Pritlove", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Tim Pritlove"
                                     }
                                 ], 
                                 "links": []
@@ -555,8 +555,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "tbd", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "tbd"
                                     }
                                 ], 
                                 "links": []
@@ -579,8 +579,8 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Fiona Krakenb\u00fcrger", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Fiona Krakenb\u00fcrger"
                                     }
                                 ], 
                                 "links": []
@@ -603,16 +603,16 @@
                                 "description": "", 
                                 "persons": [
                                     {
-                                        "#text": "Claudia Krell", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Claudia Krell"
                                     }, 
                                     {
-                                        "#text": " Tim Pritlove", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Tim Pritlove"
                                     }, 
                                     {
-                                        "#text": " Ralf Stockmann", 
-                                        "id": 0
+                                        "id": 0, 
+                                        "full_public_name": "Ralf Stockmann"
                                     }
                                 ], 
                                 "links": []
