@@ -63,7 +63,7 @@ def main():
             i = 0
             items = {}
             for value in row:
-                items[keys[i].strip()] = value
+                items[keys[i].strip()] = value.strip().decode('utf-8')
                 i += 1
             csv_schedule.append(items)       
     
@@ -112,27 +112,27 @@ def main():
                 ('room', room),
                 ('slug', ''),
                 #('slug', '31c3_-_6561_-_en_-_saal_1_-_201412271100_-_31c3_opening_event_-_erdgeist_-_geraldine_de_bastion',
-                ('title', event['Podcast'].strip().decode('utf-8') + ': ' + event['Titel'].decode('utf-8')),
+                ('title', event['Podcast'] + ': ' + event['Titel']),
                 ('subtitle', ''),
                 ('track', 'Sendezentrum'),
                 ('type', 'Podcast'),
                 ('language', 'de' ),
                 ('abstract', ''),
                 ('description', '' ),
-                ('persons', [{
-                    'id': 0,
-                    #'full_public_name': p.decode('utf-8'),
-                    '#text': p.decode('utf-8'),
-                } for p in event['Teilnehmer'].split(',') ]),
+                ('persons', [ OrderedDict([
+                    ('id', 0),
+                    ('full_public_name', p.strip()),
+                    #('#text', p),
+                ]) for p in event['Teilnehmer'].split(',') ]),
                 ('links', [])             
             ])
             
             print event_n['title']
             
-            wsdr = schedule['schedule']['conference']['days'][day-1]['rooms']
-            if room not in wsdr:
-                wsdr[room] = list();
-            wsdr[room].append(event_n);
+            day_rooms = schedule['schedule']['conference']['days'][day-1]['rooms']
+            if room not in day_rooms:
+                day_rooms[room] = list();
+            day_rooms[room].append(event_n);
             
             
         
@@ -142,7 +142,7 @@ def main():
         json.dump(schedule, fp, indent=4)
         
     with open('sendezentrum.schedule.xml', 'w') as fp:
-        fp.write(dict_to_etree(schedule));
+        fp.write(dict_to_schedule_xml(schedule));
             
     print 'end'
 
@@ -196,8 +196,22 @@ def copy_base_structure_list(subtree, level):
 from lxml import etree as ET
 #from xml.etree import cElementTree as ET
 
-def dict_to_etree(d):
-    def _to_etree(d, root):
+def dict_to_attrib(d, root):
+    assert isinstance(d, dict)
+    for k,v in d.items():
+        assert _set_attrib(root, k, v)
+            
+def _set_attrib(tag, k, v):
+    if isinstance(v, basestring):
+        tag.set(k, v)
+    elif isinstance(v, int):
+        tag.set(k, str(v))
+    else:
+        print "  error: unknown attribute type %s=%s" % (k, v)
+
+
+def dict_to_schedule_xml(d):
+    def _to_etree(d, root, parent = ''):
         if not d:
             pass
         elif isinstance(d, basestring):
@@ -205,34 +219,58 @@ def dict_to_etree(d):
         elif isinstance(d, int):
             root.text = str(d)
         elif (isinstance(d, dict) or isinstance(d, OrderedDict)):
+            count = len(d)
             for k,v in d.items():
-                assert isinstance(k, basestring)
-                if k.startswith('#'):
-                    assert k == '#text' and isinstance(v, basestring)
+                if parent == 'conference' and k == 'daysCount':
+                   k = 'days'
+                if parent == 'day':
+                    if k[:4] == 'day_':
+                        # remove day_ prefix from items
+                        k = k[4:]
+                    if k == 'index':
+                        # in json the first index is 0, in the xml the first day has index 1
+                        v += 1
+                
+                if k == 'id' or k == 'guid' or (parent == 'day' and isinstance(v, (basestring, int))):
+                    _set_attrib(root, k, v)
+                    count -= 1
+                elif count == 1 and isinstance(v, basestring):
                     root.text = v
-                elif k.startswith('@'):
-                    assert isinstance(v, basestring)
-                    root.set(k[1:], v)
-                elif k == 'id' or k == 'guid':
-                    if isinstance(v, basestring):
-                        root.set(k, v)
-                    elif isinstance(v, int):
-                        root.set(k, str(v))
-                    else:
-                        print k, v
-                elif isinstance(v, list):
-                    for e in v:
-                        print e
-                        print k
-                        if k == 'Saal 5':
-                            k = 'event'
-                        _to_etree(e, ET.SubElement(root, k))
+                # elif k.startswith('#'):
+                #    assert k == '#text' and isinstance(v, basestring)
+                #    print count
+                #    root.text = v
+                # elif k.startswith('@'):
+                #    assert isinstance(v, basestring)
+                #    _set_attrib(root, k[1:], v)
                 else:
-                    _to_etree(v, ET.SubElement(root, k))
+                    new_root = root
+
+                    if parent == 'room':
+                        new_k = 'event'
+                        root.set('name', k)
+                    # special handing for collections: days, rooms etc.
+                    if k[-1:] == 's':              
+                        # don't ask me why the pentabarf schedule xml schema is so inconsistent... --Andi 
+                        # create collection tag for specific tags, e.g. persons, links etc.
+                        if parent == 'event':
+                            new_root = ET.SubElement(root, k)
+                        
+                        # remove last char (which is an s)
+                        k = k[:-1] 
+                    if isinstance(v, list):
+                        for e in v:
+                            _to_etree(e, ET.SubElement(new_root, k), k)
+                    elif k == 'day':
+                        print "XXXXX"
+                        _to_etree(v, ET.SubElement(new_root, k), k)
+                    else:
+                        _to_etree(v, ET.SubElement(new_root, k), k)
         else: assert d == 'invalid type'
     #print d
-    assert (isinstance(d, dict) or isinstance(d, OrderedDict)) and len(d) == 1
+    assert isinstance(d, dict) and len(d) == 1
     tag, body = next(iter(d.items()))
+
     node = ET.Element(tag)
     _to_etree(body, node)
     return ET.tostring(node)
