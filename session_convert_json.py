@@ -78,6 +78,7 @@ def main():
     
     out = {}
     schedule = dict()
+    halfnarp_out = []
     
     for event_wiki_name, event_r in events.iteritems():
         print event_wiki_name
@@ -153,11 +154,11 @@ def main():
                 ('language', lang ),
                 ('abstract', ''),
                 ('description', "\n".join(session['Has description']) ),
-                ('persons', [{
-                    'id': 0,
-                    'full_public_name': p['fulltext'].split(':', 1)[1],
-                    'url': p['fullurl']
-                } for p in session['Is organized by'] ]),
+                ('persons', [ OrderedDict([
+                    ('id', 0),
+                    ('full_public_name', p['fulltext'].split(':', 1)[1]),
+                    ('url', p['fullurl']),
+                ]) for p in session['Is organized by'] ]),
                 ('links', session['Has website'] + [session['fullurl']])             
             ])
             
@@ -171,17 +172,41 @@ def main():
                 fsdr[room] = list();
             fsdr[room].append(event_n);
             
+            halfnarp_out.append(OrderedDict([
+                ("event_id", event_n['id']),
+                ("track_id", 10),
+                ("track_name", "Session"),
+                ("room_id", 0),
+                ("room_name", event_n['room']),
+                ("start_time", event_n['date']),
+                ("duration", duration*60),
+                ("title", event_n['title']),
+                ("abstract", event_n['abstract']),
+                ("speakers", ", ".join([p['full_public_name'] for p in event_n['persons']])),
+            ]))
+            
         
     #print json.dumps(workshop_schedule, indent=2)
     
     with open("sessions_complete.json", "w") as fp:
         json.dump(out, fp, indent=4)
+    
 
     with open("workshops.schedule.json", "w") as fp:
         json.dump(workshop_schedule, fp, indent=4)
+    
+    with open('workshops.schedule.xml', 'w') as fp:
+        fp.write(dict_to_schedule_xml(workshop_schedule))
+    
+    with open("workshops.halfnarp.json", "w") as fp:
+        json.dump(halfnarp_out, fp, indent=4)
+    
         
     with open("everything.schedule.json", "w") as fp:
         json.dump(full_schedule, fp, indent=4)
+    
+    with open('everything.schedule.xml', 'w') as fp:
+        fp.write(dict_to_schedule_xml(full_schedule))   
 
     
     print 'end'
