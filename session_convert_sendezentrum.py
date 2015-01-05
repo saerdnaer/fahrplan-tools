@@ -7,7 +7,6 @@ import dateutil.parser
 from datetime import datetime
 from datetime import timedelta
 import pytz
-import os.path
 import csv
 import hashlib
 
@@ -76,75 +75,66 @@ def main():
     
     
     for event in csv_schedule:        
-        if True:
-            '''
-            if day_s not in schedule:
-                schedule[day_s] = dict()
-            if room not in schedule[day]:
-                schedule[day_s][room] = list()
-            schedule[day_s][room].append(combined)
-            '''
-            
-            room = 'Saal 5'
-            guid = hashlib.md5(room + event['Date'] + event['Time Start']).hexdigest()
-            
-            def norm(timestr):
-                timestr = timestr.replace('p.m.', 'pm')
-                timestr = timestr.replace('a.m.', 'am')
-                ## workaround for failure in input file format
-                if timestr.startswith('0:00'):
-                    timestr = timestr.replace('0:00', '12:00')
-                    
-                return timestr
+        room = 'Saal 5'
+        guid = hashlib.md5(room + event['Date'] + event['Time Start']).hexdigest()
+        
+        def norm(timestr):
+            timestr = timestr.replace('p.m.', 'pm')
+            timestr = timestr.replace('a.m.', 'am')
+            ## workaround for failure in input file format
+            if timestr.startswith('0:00'):
+                timestr = timestr.replace('0:00', '12:00')
                 
-            
-            start_time   = datetime.strptime( event['Date'] + ' ' + norm(event['Time Start']), date_format)
-            if event['Time End'] != 'tbd':
-                end_time = datetime.strptime( event['Date'] + ' ' + norm(event['Time End']  ), date_format)
-            else:    
-                end_time = start_time + timedelta(hours=2) 
-            duration = (end_time - start_time).seconds/60
-            
-            # Chaos Comunication Congress always starts at the 27th which is day 1
-            # Maybe TODO: Use days[0]['start'] instead
-            day = int(start_time.strftime('%d')) - 26
-            
-            event_n = OrderedDict([
-                ('id', get_id(guid)),
-                ('guid', guid),
-                # ('logo', None),
-                ('date', start_time.isoformat()),
-                ('start', start_time.strftime('%H:%M')),
-                #('duration', str(timedelta(minutes=event['Has duration'][0])) ),
-                ('duration', '%d:%02d' % divmod(duration, 60) ),
-                ('room', room),
-                ('slug', ''),
-                #('slug', '31c3_-_6561_-_en_-_saal_1_-_201412271100_-_31c3_opening_event_-_erdgeist_-_geraldine_de_bastion',
-                ('title', event['Podcast'] + ': ' + event['Titel']),
-                ('subtitle', ''),
-                ('track', 'Sendezentrum'),
-                ('type', 'Podcast'),
-                ('language', 'de' ),
-                ('abstract', ''),
-                ('description', '' ),
-                ('persons', [ OrderedDict([
-                    ('id', 0),
-                    ('full_public_name', p.strip()),
-                    #('#text', p),
-                ]) for p in event['Teilnehmer'].split(',') ]),
-                ('links', [])             
-            ])
-            
-            #print event_n['title']
-            
-            day_rooms = schedule['schedule']['conference']['days'][day-1]['rooms']
-            if room not in day_rooms:
-                day_rooms[room] = list();
-            day_rooms[room].append(event_n);
-            
+            return timestr
             
         
-    #print json.dumps(workshop_schedule, indent=2)
+        start_time   = datetime.strptime( event['Date'] + ' ' + norm(event['Time Start']), date_format)
+        if event['Time End'] != 'tbd':
+            end_time = datetime.strptime( event['Date'] + ' ' + norm(event['Time End']  ), date_format)
+        else:    
+            end_time = start_time + timedelta(hours=2) 
+        duration = (end_time - start_time).seconds/60
+        
+        # Chaos Communication Congress always starts at the 27th which is day 1
+        # Maybe TODO: Use days[0]['start'] instead
+        day = int(start_time.strftime('%d')) - 26
+        
+        event_n = OrderedDict([
+            ('id', get_id(guid)),
+            ('guid', guid),
+            # ('logo', None),
+            ('date', start_time.isoformat()),
+            ('start', start_time.strftime('%H:%M')),
+            #('duration', str(timedelta(minutes=event['Has duration'][0])) ),
+            ('duration', '%d:%02d' % divmod(duration, 60) ),
+            ('room', room),
+            ('slug', ''),
+            #('slug', '31c3_-_6561_-_en_-_saal_1_-_201412271100_-_31c3_opening_event_-_erdgeist_-_geraldine_de_bastion',
+            ('title', event['Podcast'] + ': ' + event['Titel']),
+            ('subtitle', ''),
+            ('track', 'Sendezentrum'),
+            ('type', 'Podcast'),
+            ('language', 'de' ),
+            ('abstract', ''),
+            ('description', '' ),
+            ('persons', [ OrderedDict([
+                ('id', 0),
+                ('full_public_name', p.strip()),
+                #('#text', p),
+            ]) for p in event['Teilnehmer'].split(',') ]),
+            ('links', [])             
+        ])
+        
+        #print event_n['title']
+        
+        day_rooms = schedule['schedule']['conference']['days'][day-1]['rooms']
+        if room not in day_rooms:
+            day_rooms[room] = list();
+        day_rooms[room].append(event_n);
+        
+        
+    
+    #print json.dumps(schedule, indent=2)
     
     with open('sendezentrum.schedule.json', 'w') as fp:
         json.dump(schedule, fp, indent=4)
