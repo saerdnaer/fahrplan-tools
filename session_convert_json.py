@@ -177,7 +177,6 @@ def main():
     with open("sessions_complete.json", "w") as fp:
         json.dump(out, fp, indent=4)
 
-    
     with open("workshops.schedule.json", "w") as fp:
         json.dump(workshop_schedule, fp, indent=4)
         
@@ -187,15 +186,6 @@ def main():
     
     print 'end'
 
-def get_day(start_time):
-    for day in days:
-        if day['start'] > start_time < day['end']:
-            return day['index']
-    
-    return '0'
-
-sos_ids = dict()
-next_id = 100
 
 if os.path.isfile("_sos_ids.json"):
     with open("_sos_ids.json", "r") as fp:
@@ -204,89 +194,7 @@ if os.path.isfile("_sos_ids.json"):
         temp = fp.read()
         sos_ids = json.JSONDecoder(object_pairs_hook=OrderedDict).decode(temp)
     
-  
-    
-    
     next_id = max(sos_ids.itervalues())+1
-
-def get_id(guid):
-    global sos_ids, next_id
-    if guid not in sos_ids:
-        #generate new id
-        sos_ids[guid] = next_id
-        next_id = next_id + 1  
-    
-    return sos_ids[guid]
-
-
-def copy_base_structure(subtree, level):  
-    ret = OrderedDict()
-    if level > 0:
-        for key, value in subtree.iteritems():
-            if isinstance(value, (basestring, int)):
-                ret[key] = value
-            elif isinstance(value, list):
-                ret[key] = copy_base_structure_list(value, level-1) 
-            else:
-                ret[key] = copy_base_structure(value, level-1) 
-    return ret
-
-def copy_base_structure_list(subtree, level):  
-    ret = []
-    if level > 0:
-        for value in subtree:
-            if isinstance(value, (basestring, int)):
-                ret.append(value)
-            elif isinstance(value, list):
-                ret.append(copy_base_structure_list(value, level-1))
-            else:
-                ret.append(copy_base_structure(value, level-1)) 
-    return ret
-
-# https://events.ccc.de/congress/2014/wiki/index.php?title=Special:Ask
-# &q=[[Category:Session]] OR [[Has object type::Event]]
-# &po=?Has event title ?Has subtitle ?Has start time ?Has end time ?Has duration ?Has description ?Has session location ?Has session type ?Held in language ?Is organized by ?Has description ?Has url ?Has event track 
-# &eq=yes
-# &p[format]=broadtable&sort_num=&order_num=ASC
-# &p[limit]=500&p[offset]=&p[link]=all&p[sort]=
-# &p[order][ascending]=1&p[headers]=show&p[mainlabel]=&p[intro]=&p[outro]=&p[searchlabel]= further results&p[default]=&p[class]=sortable wikitable smwtable
-# &eq=yes
-
-
-# from http://stackoverflow.com/a/10076823
-
-#from lxml import etree as ET
-from xml.etree import cElementTree as ET
-
-def dict_to_etree(d):
-    def _to_etree(d, root):
-        if not d:
-            pass
-        elif isinstance(d, basestring):
-            root.text = d
-        elif isinstance(d, int):
-            root.text = str(d)
-        elif (isinstance(d, dict) or isinstance(d, OrderedDict)):
-            for k,v in d.items():
-                assert isinstance(k, basestring)
-                if k.startswith('#'):
-                    assert k == '#text' and isinstance(v, basestring)
-                    root.text = v
-                elif k.startswith('@'):
-                    assert isinstance(v, basestring)
-                    root.set(k[1:], v)
-                elif isinstance(v, list):
-                    for e in v:
-                        _to_etree(e, ET.SubElement(root, k))
-                else:
-                    _to_etree(v, ET.SubElement(root, k))
-        else: assert d == 'invalid type'
-    #print d
-    assert (isinstance(d, dict) or isinstance(d, OrderedDict)) and len(d) == 1
-    tag, body = next(iter(d.items()))
-    node = ET.Element(tag)
-    _to_etree(body, node)
-    return ET.tostring(node)
 
 def first(x):
     if len(x) == 0:
