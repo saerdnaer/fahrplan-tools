@@ -218,7 +218,7 @@
                                 "duration": "1:00", 
                                 "room": "Saal 5", 
                                 "slug": "", 
-                                "title": "Staatsb\u00fcrgerkunde: Martin Fischer, Martin Haase, Constanze Kurz", 
+                                "title": "Staatsb\u00fcrgerkunde: ", 
                                 "subtitle": "", 
                                 "track": "Sendezentrum", 
                                 "type": "Podcast", 
@@ -228,7 +228,15 @@
                                 "persons": [
                                     {
                                         "id": 0, 
-                                        "full_public_name": ""
+                                        "full_public_name": "Martin Fischer"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Martin Haase"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Constanze Kurz"
                                     }
                                 ], 
                                 "links": []
