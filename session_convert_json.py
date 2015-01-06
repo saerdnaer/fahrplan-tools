@@ -12,6 +12,10 @@ import os.path
 days = []
 de_tz = pytz.timezone('Europe/Amsterdam')
 
+# some functions used in multiple files of this collection
+from tools import *
+
+
 def main():
     print "Requesting sessions"
     sessions_r = requests.get(
@@ -220,6 +224,13 @@ if os.path.isfile("_sos_ids.json"):
         sos_ids = json.JSONDecoder(object_pairs_hook=OrderedDict).decode(temp)
     
     next_id = max(sos_ids.itervalues())+1
+
+def get_day(start_time):
+    for day in days:
+        if day['start'] > start_time < day['end']:
+            return day['index']
+    
+    return '0'
 
 def first(x):
     if len(x) == 0:

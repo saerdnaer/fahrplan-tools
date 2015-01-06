@@ -1,14 +1,11 @@
 from collections import OrderedDict
 
 sos_ids = {}
-next_id = 1000
+next_id = 100
 
-def get_day(start_time):
-    for day in days:
-        if day['start'] > start_time < day['end']:
-            return day['index']
-    
-    return '0'
+def set_base_id(value):
+    global next_id
+    next_id = value
 
 def get_id(guid):
     global sos_ids, next_id
@@ -97,6 +94,9 @@ def dict_to_schedule_xml(d):
                 if k == 'id' or k == 'guid' or (parent == 'day' and isinstance(v, (basestring, int))):
                     _set_attrib(node, k, v)
                     count -= 1
+                elif k == 'url' and parent == 'link':
+                    _set_attrib(node, 'href', v)
+                    count -= 1
                 elif count == 1 and isinstance(v, basestring):
                     node.text = v
                 # elif k.startswith('#'):
@@ -142,4 +142,4 @@ def dict_to_schedule_xml(d):
 
     root_node = ET.Element(tag)
     _to_etree(body, root_node)
-    return ET.tostring(root_node)
+    return ET.tostring(root_node, pretty_print = True)

@@ -13,11 +13,12 @@ import hashlib
 # some functions used in multiple files of this collection
 from tools import *
 
+set_base_id(1000)
 days = []
 de_tz = pytz.timezone('Europe/Amsterdam')
 
 #config
-offline = True
+offline = False
 date_format = '%d/%m/%y %I:%M %p'
 
 
